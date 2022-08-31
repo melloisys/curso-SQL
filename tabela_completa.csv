@@ -1,0 +1,1001 @@
+idade;sexo;dependentes;escolaridade;estado_civil;salario_anual;tipo_cartao;qtd_produtos;iteracoes_12m;meses_inativo_12m;limite_credito;valor_transacoes_12m;qtd_transacoes_12m
+45;M;3;"ensino medio";casado;"$60K - $80K";blue;5;3;1;12691.5;1144.9;42
+49;F;5;mestrado;solteiro;"menos que $40K";blue;6;2;1;8256.96;1291.45;33
+51;M;3;mestrado;casado;"$80K - $120K";blue;4;0;1;3418.56;1887.72;20
+40;F;4;"ensino medio";na;"menos que $40K";blue;3;1;4;3313.03;1171.56;20
+40;M;3;"sem educacao formal";casado;"$60K - $80K";blue;5;0;1;4716.22;816.08;28
+44;M;2;mestrado;casado;"$40K - $60K";blue;3;2;1;4010.69;1088.07;24
+51;M;4;na;casado;"$120K +";gold;6;3;1;34516.7;1330.87;31
+32;M;0;"ensino medio";na;"$60K - $80K";silver;2;2;2;29081.5;1538.32;36
+37;M;3;"sem educacao formal";solteiro;"$60K - $80K";blue;5;0;2;22352.5;1350.14;24
+48;M;2;mestrado;solteiro;"$80K - $120K";blue;6;3;3;11656.4;1441.73;32
+42;M;5;"sem educacao formal";na;"$120K +";blue;5;2;3;6748.4;1201.27;42
+65;M;1;na;casado;"$40K - $60K";blue;6;3;2;9095.59;1314.42;26
+56;M;1;graduacao;solteiro;"$80K - $120K";blue;3;0;6;11751.1;1539.95;17
+35;M;3;mestrado;na;"$60K - $80K";blue;5;3;1;8547.74;1311.48;33
+57;F;2;mestrado;casado;"menos que $40K";blue;5;2;2;2436;1570.23;29
+44;M;4;na;na;"$80K - $120K";blue;5;2;1;4234.96;1348.1;27
+48;M;4;doutorado;solteiro;"$80K - $120K";blue;6;3;2;30367.6;1671.12;27
+41;M;3;na;casado;"$80K - $120K";blue;4;1;4;13535.9;1028.75;21
+61;M;1;"ensino medio";casado;"$40K - $60K";blue;2;3;2;3193.51;1336.54;30
+45;F;2;mestrado;casado;na;blue;6;2;1;14470.8;1207.79;21
+47;M;1;doutorado;divorciado;"$60K - $80K";blue;5;0;2;20979.1;1178.72;27
+62;F;0;mestrado;casado;"menos que $40K";blue;2;3;3;1438.73;692.25;16
+41;M;3;"ensino medio";casado;"$40K - $60K";blue;4;1;2;4470.45;931.04;18
+47;F;4;na;solteiro;"menos que $40K";blue;3;2;3;2492.08;1126.97;23
+54;M;2;na;casado;"$80K - $120K";blue;4;3;2;12217.4;1110.07;21
+41;F;3;mestrado;solteiro;"menos que $40K";blue;6;2;1;7768.43;1052;22
+59;M;1;"ensino medio";na;"$40K - $60K";blue;4;2;1;14784.1;1197.92;23
+63;M;1;na;casado;"$60K - $80K";blue;3;2;3;10215.3;1904.01;40
+44;F;3;"sem educacao formal";solteiro;na;blue;5;2;2;10100.7;1052.46;18
+47;M;4;"ensino medio";casado;"$40K - $60K";blue;6;0;0;4785.24;1045.67;38
+53;M;3;na;casado;"$80K - $120K";blue;3;3;2;2753.96;1038.8;25
+53;M;2;"sem educacao formal";casado;"$60K - $80K";blue;2;1;5;2451.4;1596.34;26
+41;M;4;mestrado;casado;"$60K - $80K";blue;4;2;1;8923.23;1589.11;24
+53;F;2;graduacao;casado;"menos que $40K";blue;5;3;2;2650.38;1411.63;28
+58;M;0;mestrado;casado;"$80K - $120K";blue;6;2;2;12555.2;1291.68;24
+55;F;1;graduacao;solteiro;"menos que $40K";blue;4;1;2;3520.61;1407.71;43
+55;F;3;mestrado;casado;"menos que $40K";blue;6;3;2;3035.78;1877.05;37
+42;F;4;"ensino medio";casado;"menos que $40K";gold;2;3;3;15433.3;966.8;22
+57;F;1;mestrado;na;"$40K - $60K";blue;3;2;3;3672.19;1464.46;28
+66;F;0;doutorado;casado;na;blue;5;3;4;7882.47;704.78;16
+45;M;3;mestrado;solteiro;"$80K - $120K";blue;2;2;2;32426.3;1109.51;28
+51;M;2;na;casado;"$40K - $60K";blue;4;0;1;6205.02;1347.47;28
+50;F;1;graduacao;solteiro;"$40K - $60K";silver;3;3;2;17304.7;1756;33
+49;M;3;"ensino medio";casado;"$60K - $80K";blue;5;1;2;3906.4;1756.49;32
+38;F;4;mestrado;solteiro;na;blue;2;3;3;9830.13;1042.8;23
+49;M;4;"sem educacao formal";solteiro;"$80K - $120K";blue;3;3;2;34516.1;1444.77;28
+56;M;2;doutorado;casado;"$60K - $80K";blue;6;0;2;2283.59;1741.52;27
+59;M;1;doutorado;casado;"$40K - $60K";blue;3;2;2;2548.58;1719.18;27
+46;M;3;"ensino medio";casado;"$80K - $120K";blue;4;3;3;19458.6;1217.71;27
+52;M;1;graduacao;solteiro;"$80K - $120K";blue;5;1;1;4745.36;1140.09;40
+52;F;3;na;casado;"menos que $40K";blue;6;2;3;2622.45;1878.14;30
+54;F;1;mestrado;casado;"menos que $40K";blue;2;1;3;1438.08;705.59;19
+66;F;0;"ensino medio";casado;"menos que $40K";blue;3;2;4;3171.17;1946.81;38
+49;M;2;na;casado;"$120K +";blue;4;0;2;19763.7;1414.42;35
+56;M;2;mestrado;casado;"$120K +";blue;1;3;3;15769.3;602.6;15
+49;F;4;mestrado;na;"menos que $40K";blue;6;2;4;3298.68;1052.4;32
+49;F;3;mestrado;solteiro;"menos que $40K";blue;2;0;2;2802.32;1295.77;40
+56;M;2;"sem educacao formal";casado;"$40K - $60K";blue;4;3;2;4458.72;1424.23;29
+44;F;5;mestrado;casado;na;blue;4;2;1;6273.36;1359.02;25
+42;M;2;"ensino medio";solteiro;"$60K - $80K";blue;4;3;4;3336.16;1168.25;27
+55;M;3;na;casado;"$80K - $120K";blue;4;3;2;3436.88;1097.15;33
+48;M;2;mestrado;casado;"$60K - $80K";silver;2;4;4;34516.6;691.1;15
+39;M;1;"ensino medio";divorciado;"$60K - $80K";blue;5;3;3;5926.84;1316.35;28
+44;M;4;doutorado;solteiro;"$120K +";blue;2;2;4;23957.4;1276.73;26
+53;M;2;"ensino medio";solteiro;"$120K +";blue;4;2;2;14734.8;1289.07;23
+51;M;4;"sem educacao formal";solteiro;"$80K - $120K";silver;4;4;1;34516.4;1293.87;32
+57;M;2;graduacao;casado;"$60K - $80K";blue;5;3;3;6585;1353.02;35
+44;F;2;"sem educacao formal";solteiro;"menos que $40K";blue;6;3;3;2084.4;1132.88;28
+49;M;2;mestrado;casado;"$60K - $80K";blue;2;2;2;1687.32;1670.43;17
+50;M;2;doutorado;casado;"$80K - $120K";blue;6;2;2;25300.8;837.74;15
+51;M;4;mestrado;solteiro;"$120K +";blue;3;3;2;34516.1;1550.71;41
+55;F;2;mestrado;casado;"menos que $40K";blue;5;3;3;2216.16;1540.51;36
+54;M;1;mestrado;na;"$60K - $80K";blue;4;3;2;2910.05;1256.06;21
+42;M;5;"sem educacao formal";casado;"$80K - $120K";blue;6;2;2;22913.5;1394.75;35
+44;M;1;graduacao;solteiro;"$60K - $80K";blue;3;3;3;24312.6;1341.81;24
+53;M;2;mestrado;solteiro;"$80K - $120K";blue;5;2;3;5272.7;1289.65;33
+44;F;4;mestrado;solteiro;"menos que $40K";blue;6;2;4;7000.35;1112.55;23
+37;F;3;"sem educacao formal";solteiro;"menos que $40K";blue;4;2;4;7038.51;2339.31;57
+49;M;3;mestrado;divorciado;"$60K - $80K";blue;6;2;1;2536;1468.07;23
+47;M;2;mestrado;casado;"$80K - $120K";blue;6;2;3;28904.1;1334.19;35
+47;M;3;mestrado;casado;"$60K - $80K";blue;4;0;4;8567.99;1457.17;41
+44;M;1;na;na;"$120K +";blue;6;2;2;34516.9;1603.72;29
+55;F;4;na;casado;"$40K - $60K";blue;2;3;4;2158.57;615.02;12
+59;F;1;mestrado;casado;na;blue;2;3;3;10133.9;1068.99;20
+53;M;1;mestrado;divorciado;"$80K - $120K";blue;5;2;4;34516.4;1590.14;27
+52;M;2;mestrado;casado;"$60K - $80K";blue;5;0;3;3085.37;1531.13;35
+53;M;2;"ensino medio";solteiro;"$120K +";blue;4;1;2;19040.9;1212.09;31
+43;F;3;"sem educacao formal";solteiro;"menos que $40K";blue;5;3;2;4026.73;1237;32
+44;M;3;"ensino medio";solteiro;"$60K - $80K";blue;4;1;3;12756.7;1413.28;14
+57;M;2;na;casado;"$120K +";blue;5;3;3;5266.9;1516.81;29
+51;F;2;"ensino medio";solteiro;"menos que $40K";blue;3;2;2;9930.94;1276.14;21
+49;M;4;"ensino medio";solteiro;"$80K - $120K";blue;4;0;3;31302.3;1564.29;35
+45;M;1;mestrado;solteiro;"$40K - $60K";blue;4;3;4;6576.08;1465.89;34
+53;M;0;mestrado;solteiro;"$80K - $120K";blue;5;1;4;2664.65;1286.1;29
+45;F;3;na;casado;na;blue;5;2;1;2535.81;1312.66;20
+64;M;1;mestrado;casado;"menos que $40K";blue;6;3;4;1709.75;1673.96;32
+45;M;3;mestrado;casado;"$40K - $60K";blue;5;2;4;3454.88;1313.57;30
+53;M;3;doutorado;casado;"$40K - $60K";blue;5;2;3;3789.07;1609.8;42
+56;M;3;graduacao;casado;"$120K +";blue;3;0;2;9689.42;1158.65;19
+47;M;2;na;casado;"$80K - $120K";blue;2;3;3;5449.1;836.55;18
+49;F;3;graduacao;solteiro;na;blue;4;0;4;23032.3;1289.53;22
+41;F;3;na;casado;na;silver;5;3;3;34516.8;1487.1;26
+53;M;3;mestrado;casado;"$120K +";blue;6;2;2;2940.23;1259.6;33
+44;F;2;mestrado;solteiro;"menos que $40K";blue;3;3;3;3031.74;1298.42;15
+44;M;3;"ensino medio";na;"$60K - $80K";blue;3;0;3;1862.88;1226.76;34
+43;F;4;doutorado;casado;"menos que $40K";blue;2;3;3;8358.36;1566.92;37
+53;M;2;doutorado;solteiro;"$120K +";blue;6;2;1;34516.7;1022.13;21
+44;M;1;"sem educacao formal";casado;"$60K - $80K";blue;5;3;2;14450.9;1235.89;30
+62;F;1;na;casado;"menos que $40K";blue;6;0;0;1438.56;1951.32;44
+54;M;4;na;divorciado;"$120K +";blue;6;2;3;33791.2;1047.44;31
+57;M;4;mestrado;casado;"$60K - $80K";blue;4;0;3;8466.12;1342.04;32
+42;M;3;na;casado;"$60K - $80K";blue;5;3;3;15088.4;1107.18;21
+42;M;4;"ensino medio";divorciado;"$60K - $80K";blue;5;2;1;3263.41;1251.05;35
+54;F;0;"sem educacao formal";casado;"menos que $40K";blue;2;2;2;1494.38;1305.99;24
+48;M;3;mestrado;solteiro;"$80K - $120K";blue;6;0;1;13551.1;1388.92;37
+49;M;1;mestrado;solteiro;"$80K - $120K";blue;6;2;2;18887;1235.27;18
+52;M;3;"ensino medio";na;"$80K - $120K";blue;3;0;2;11976.9;2089.21;36
+50;M;3;"ensino medio";solteiro;"$80K - $120K";blue;4;4;1;9964.79;1626.61;25
+49;M;1;doutorado;casado;"$60K - $80K";blue;4;3;6;24159.7;1111.64;24
+53;F;2;"ensino medio";casado;"menos que $40K";blue;3;3;2;5362.37;1553.57;38
+50;M;2;mestrado;solteiro;"$120K +";blue;3;2;2;34516.2;1064.06;13
+55;F;1;doutorado;casado;"menos que $40K";blue;4;0;1;3174.61;1243.37;29
+53;M;1;"ensino medio";casado;"$80K - $120K";blue;3;2;2;12262.6;1659.27;38
+47;F;3;"ensino medio";solteiro;"$40K - $60K";blue;4;3;3;3788.86;1594.63;47
+55;M;2;graduacao;solteiro;"$120K +";silver;2;2;3;34516.9;1268.11;42
+47;M;3;mestrado;solteiro;"$60K - $80K";blue;4;2;2;2926.27;1304.88;24
+58;M;4;mestrado;solteiro;"$120K +";blue;6;0;1;32090.2;1368.9;30
+53;M;2;mestrado;casado;"$80K - $120K";blue;3;2;3;11669.1;720.82;23
+52;M;2;"ensino medio";solteiro;"$40K - $60K";blue;3;2;1;13532.5;1521.78;29
+50;F;1;"sem educacao formal";na;"menos que $40K";silver;4;2;2;11888.2;1137.25;30
+42;F;1;mestrado;casado;"menos que $40K";blue;5;2;1;2393.25;978.8;16
+43;M;4;na;casado;"$40K - $60K";blue;5;2;1;6111.13;1221.48;16
+57;M;4;mestrado;casado;"$80K - $120K";blue;3;3;2;19270.6;1566;28
+52;M;1;mestrado;casado;"$80K - $120K";blue;3;4;1;3710.96;1578.98;34
+47;M;2;doutorado;solteiro;"menos que $40K";blue;2;3;1;3235.89;1493.12;32
+44;F;3;mestrado;solteiro;"$40K - $60K";blue;3;0;1;11750;1178.37;27
+53;M;2;"ensino medio";divorciado;"$60K - $80K";blue;5;2;3;7753.7;991.23;26
+45;M;4;graduacao;divorciado;"$60K - $80K";blue;5;0;1;10408.7;2560.79;42
+63;F;1;graduacao;casado;na;blue;6;3;2;3967.48;1657.84;29
+39;F;2;doutorado;solteiro;"menos que $40K";blue;4;2;2;6205.29;1204.63;19
+48;F;5;"ensino medio";casado;"menos que $40K";blue;1;3;3;8025.36;673.64;18
+51;M;1;na;solteiro;"$120K +";blue;6;3;2;9036.63;1131.83;18
+54;M;4;mestrado;casado;"$80K - $120K";blue;2;2;3;14926.7;1576.74;25
+59;F;1;mestrado;solteiro;"menos que $40K";blue;3;3;2;6335.1;1217.14;20
+59;M;1;graduacao;solteiro;"$60K - $80K";blue;2;3;3;14979.4;530.36;10
+48;F;4;"sem educacao formal";casado;"menos que $40K";blue;3;3;2;2732.31;739.82;16
+41;F;2;mestrado;solteiro;"menos que $40K";blue;6;2;3;2250.44;1617.31;31
+55;M;2;mestrado;casado;"$120K +";blue;3;0;2;10916.6;1592.13;34
+47;F;4;mestrado;casado;na;blue;4;3;1;5349.05;1343.87;30
+41;M;2;"ensino medio";casado;"$80K - $120K";blue;4;3;1;9366.58;1303.63;39
+40;M;3;"ensino medio";solteiro;"$80K - $120K";blue;5;0;1;21617.5;1351.89;22
+68;M;1;mestrado;casado;na;blue;5;3;2;13860.2;1910.36;32
+50;F;1;mestrado;solteiro;"$40K - $60K";silver;2;3;2;18386.6;1298.55;22
+47;M;4;"sem educacao formal";solteiro;"$60K - $80K";blue;6;2;2;2405.01;1087.22;29
+53;F;1;graduacao;casado;"menos que $40K";blue;4;3;2;2154.12;1439.28;26
+42;F;5;na;casado;"$40K - $60K";blue;3;3;3;2038.4;1238.68;28
+48;F;4;"ensino medio";solteiro;"$40K - $60K";blue;6;3;1;8135.26;1716.18;29
+49;M;1;doutorado;casado;"$120K +";blue;6;3;1;9364.93;1099.88;27
+44;F;2;"sem educacao formal";casado;na;silver;4;2;3;32643.8;1058.8;24
+43;F;4;mestrado;divorciado;"menos que $40K";blue;2;1;3;3195.43;1285.54;29
+56;M;0;"ensino medio";casado;"$80K - $120K";blue;5;1;2;2852.61;1651.52;28
+59;F;1;graduacao;solteiro;na;blue;2;3;3;4224.05;1152.5;31
+46;M;1;"sem educacao formal";casado;"$60K - $80K";blue;3;2;2;20459.8;1767.95;38
+47;F;4;na;divorciado;"menos que $40K";blue;6;3;5;3482.22;1039.44;24
+50;F;4;"sem educacao formal";casado;"$40K - $60K";blue;5;3;2;3065.19;1130.34;28
+51;F;3;"sem educacao formal";casado;"menos que $40K";blue;3;2;1;2185.8;1645.23;30
+47;F;3;"sem educacao formal";casado;"menos que $40K";blue;4;0;1;1611.04;1413.06;29
+58;F;4;"sem educacao formal";casado;"menos que $40K";blue;3;3;3;2822.92;1218.42;23
+46;M;5;mestrado;solteiro;"$80K - $120K";blue;6;3;3;32975.6;597.86;17
+53;M;3;"ensino medio";casado;"$60K - $80K";blue;5;2;2;1438.57;2184.83;53
+45;F;4;"sem educacao formal";divorciado;na;blue;4;3;3;15875.6;1592.55;37
+52;F;1;"ensino medio";casado;"menos que $40K";blue;6;3;3;6703.28;1388.72;28
+53;M;2;na;casado;"$80K - $120K";blue;2;1;2;3212.38;757.7;20
+50;M;2;"ensino medio";casado;"$80K - $120K";silver;3;3;1;34516.2;1504.44;34
+41;F;3;"ensino medio";casado;"$40K - $60K";blue;4;2;1;9797.65;1503.16;34
+45;F;5;mestrado;divorciado;"$40K - $60K";blue;5;2;2;10400.8;1105.44;28
+53;M;3;"sem educacao formal";casado;"$80K - $120K";blue;2;2;1;26792.8;2398.41;47
+67;F;1;mestrado;casado;"menos que $40K";blue;4;2;3;3006;1661.15;32
+57;F;2;"sem educacao formal";solteiro;"$40K - $60K";silver;6;0;3;19483;1421.19;22
+59;F;1;"sem educacao formal";casado;"$40K - $60K";blue;4;3;2;3356.53;999.47;28
+45;M;2;"sem educacao formal";casado;"$40K - $60K";blue;3;1;2;5771.6;1387.68;18
+51;M;3;mestrado;casado;"$80K - $120K";blue;6;3;2;11106.7;1243.58;24
+59;F;1;"sem educacao formal";casado;"menos que $40K";blue;5;0;3;2890.26;1860.16;36
+53;M;1;mestrado;casado;"$60K - $80K";blue;6;2;2;3380.75;1502.84;25
+47;M;3;mestrado;casado;"$60K - $80K";blue;2;2;1;21331.2;1460.6;50
+49;F;3;"sem educacao formal";solteiro;na;blue;6;1;2;12860.3;1348.22;27
+49;M;3;doutorado;solteiro;"$80K - $120K";blue;3;0;1;6278.72;1087.07;33
+60;F;0;graduacao;solteiro;"menos que $40K";blue;5;3;1;1439;1226.43;33
+50;F;2;"ensino medio";casado;"menos que $40K";blue;5;2;1;9355.72;1230.97;28
+41;F;2;doutorado;casado;na;blue;6;3;1;20758.3;1555.04;32
+57;M;1;mestrado;casado;"$80K - $120K";blue;5;1;3;14612.5;1827.87;24
+43;M;4;mestrado;na;"$80K - $120K";blue;5;0;2;27259.3;1376.59;35
+57;F;3;mestrado;casado;"menos que $40K";blue;4;3;2;6347.04;1771.54;37
+54;M;3;doutorado;casado;"$120K +";blue;3;0;3;21592.5;1873.76;52
+51;F;5;doutorado;casado;"menos que $40K";blue;5;1;1;3449.71;1679.81;42
+47;F;3;"ensino medio";casado;"menos que $40K";blue;2;2;1;6028.25;1002.7;22
+41;M;0;"ensino medio";na;"$120K +";blue;3;3;2;18214.4;1344.32;21
+53;M;3;"sem educacao formal";casado;"$80K - $120K";blue;3;1;3;16393.5;1461.96;42
+68;M;0;"ensino medio";casado;"menos que $40K";blue;1;2;3;1438.72;760.47;21
+59;M;1;graduacao;casado;"$60K - $80K";blue;4;2;1;7871.3;1428.62;22
+48;M;4;na;casado;"$80K - $120K";blue;5;0;3;5288.56;1777.39;42
+44;M;5;mestrado;casado;"$60K - $80K";blue;4;3;5;11376;1302.61;27
+48;M;3;graduacao;casado;"$80K - $120K";blue;4;3;5;12302.5;1483.6;41
+47;M;4;mestrado;casado;"$60K - $80K";silver;3;1;2;34516.2;1060.78;27
+47;M;2;mestrado;casado;"$60K - $80K";silver;4;2;2;34516.1;1330.44;32
+43;F;1;"ensino medio";divorciado;"menos que $40K";silver;3;2;2;10514.2;1229.2;27
+55;F;2;mestrado;casado;"menos que $40K";blue;2;3;4;1438.49;886.93;27
+59;M;2;doutorado;casado;"$60K - $80K";blue;3;3;3;1438.61;844.25;24
+63;M;1;mestrado;casado;"$40K - $60K";blue;2;2;1;2619.5;1450.42;37
+58;M;2;graduacao;casado;"$120K +";blue;2;0;3;24407.2;2311.68;48
+53;F;2;"ensino medio";casado;"menos que $40K";blue;4;2;1;2377.87;1378.54;26
+59;M;0;na;na;"$80K - $120K";silver;3;3;2;34516.3;1033.29;26
+52;M;3;mestrado;casado;"$120K +";blue;5;3;3;11086.9;1523.79;40
+48;M;3;"ensino medio";solteiro;"$60K - $80K";blue;4;2;2;11432.3;1374.92;37
+43;M;4;"ensino medio";casado;"$40K - $60K";blue;5;2;3;13258.9;1080.19;21
+48;M;2;graduacao;solteiro;"menos que $40K";blue;3;3;2;2571.08;1234.81;24
+43;F;4;mestrado;solteiro;"menos que $40K";blue;5;0;2;5781.12;1600.6;32
+44;M;4;na;casado;"$60K - $80K";blue;5;2;1;7872.62;1155.16;32
+41;M;3;"ensino medio";casado;"$80K - $120K";blue;6;2;1;34516.4;1353.8;33
+44;F;3;"sem educacao formal";divorciado;"menos que $40K";silver;4;3;1;11127.3;1546.08;25
+50;M;2;na;solteiro;"$40K - $60K";blue;2;3;1;1857.99;1590.24;43
+60;F;1;"sem educacao formal";casado;"menos que $40K";blue;5;0;1;1913.52;1448.98;22
+44;M;4;mestrado;solteiro;"$80K - $120K";blue;5;0;3;3839.33;1271.61;24
+48;F;3;mestrado;divorciado;"$40K - $60K";blue;6;3;2;2115.68;1223.72;20
+44;F;2;mestrado;divorciado;"menos que $40K";blue;5;2;2;1438.34;1117.13;29
+41;M;2;"ensino medio";solteiro;"$80K - $120K";blue;4;0;3;27756.9;994.1;24
+45;M;3;graduacao;solteiro;"$60K - $80K";blue;4;2;1;1438.92;1468.3;26
+47;F;2;"sem educacao formal";divorciado;"menos que $40K";silver;6;2;4;13878.3;1658.13;38
+51;F;2;mestrado;casado;"menos que $40K";blue;3;3;1;3106.63;1368.17;38
+51;M;2;mestrado;casado;"$120K +";blue;4;3;3;34516.7;1218.41;18
+60;F;1;"sem educacao formal";casado;"$40K - $60K";blue;4;3;4;1438.57;702.15;12
+57;M;2;na;casado;"$80K - $120K";blue;2;0;3;18871.2;1516.99;21
+41;M;5;mestrado;solteiro;"$120K +";blue;5;2;2;5207.73;1310.79;26
+44;M;3;doutorado;divorciado;"$80K - $120K";blue;6;2;2;17965.7;1767.49;50
+43;M;1;graduacao;solteiro;"$60K - $80K";blue;6;3;3;2733.26;933.05;25
+55;M;2;graduacao;casado;"$60K - $80K";blue;4;2;3;8863.91;1512.98;27
+52;M;1;"sem educacao formal";casado;"$80K - $120K";blue;2;3;3;1857.31;829.9;17
+44;M;3;mestrado;na;"$80K - $120K";blue;3;3;3;34516.4;1120.71;27
+41;M;2;"sem educacao formal";casado;"$40K - $60K";blue;5;3;3;11107.9;1506.36;33
+44;M;4;na;solteiro;"$80K - $120K";blue;4;2;1;21573.8;1384.44;36
+53;F;2;na;casado;"menos que $40K";blue;2;3;3;2859.73;817.64;30
+39;M;2;"ensino medio";solteiro;"$80K - $120K";blue;4;2;2;5269.71;2094.18;25
+49;M;5;graduacao;casado;"$40K - $60K";blue;2;3;2;1438.71;815.11;21
+45;F;2;graduacao;casado;"menos que $40K";blue;1;2;3;3387.36;510.16;24
+54;M;2;mestrado;casado;"$80K - $120K";blue;6;3;2;1982.76;1377.75;49
+49;M;3;"sem educacao formal";solteiro;"$80K - $120K";blue;2;2;2;4645.64;1193.5;33
+46;F;3;doutorado;solteiro;na;blue;6;2;3;2189.18;1287.55;36
+46;M;4;"ensino medio";casado;"$120K +";blue;3;3;3;2442.35;701.37;19
+47;M;3;mestrado;casado;"$60K - $80K";blue;4;2;1;21304.9;1770.89;25
+44;M;2;doutorado;solteiro;"$60K - $80K";blue;5;2;1;7577.25;1409.86;35
+50;M;3;doutorado;solteiro;"$120K +";blue;4;2;1;3234.67;1354.89;28
+73;M;0;"ensino medio";casado;"$40K - $60K";blue;5;2;3;4469.13;1765.87;34
+56;M;3;na;na;"$40K - $60K";blue;6;4;3;2910.9;1192.62;27
+59;M;0;"ensino medio";solteiro;"$40K - $60K";blue;2;3;4;3616.78;687.81;17
+70;M;0;"ensino medio";casado;"menos que $40K";blue;3;3;2;3252;1227.27;15
+55;F;2;"ensino medio";casado;"menos que $40K";blue;4;3;3;2358.65;1737.67;26
+43;M;4;na;solteiro;"$60K - $80K";blue;4;0;1;22322.2;1348.37;34
+45;M;1;"sem educacao formal";solteiro;"$120K +";blue;4;2;2;3133.64;1435.15;38
+45;F;2;"sem educacao formal";solteiro;"$40K - $60K";blue;2;0;3;3540.83;1321.66;28
+40;M;1;mestrado;casado;"$40K - $60K";blue;6;2;3;6990.3;1479.15;29
+36;M;2;graduacao;na;"$80K - $120K";blue;2;3;2;34516.3;1283.15;39
+59;F;0;doutorado;casado;"$40K - $60K";blue;1;1;4;1438.04;689.19;23
+43;M;4;na;casado;"$60K - $80K";blue;6;2;3;24396.6;965.54;17
+46;F;1;na;casado;"menos que $40K";blue;2;2;3;2474.33;1541.84;40
+41;M;2;"sem educacao formal";casado;"$40K - $60K";blue;5;3;1;5214.54;1258.13;23
+51;F;2;mestrado;casado;"menos que $40K";blue;5;2;2;5207.14;1339.25;20
+51;F;3;na;na;"menos que $40K";blue;2;2;2;9512.92;1007.35;22
+43;F;4;mestrado;divorciado;na;blue;6;2;3;3187.02;1387.1;33
+64;F;0;"ensino medio";casado;"$40K - $60K";blue;1;3;3;3353.71;960.89;18
+54;M;5;mestrado;casado;"$60K - $80K";blue;3;3;3;2290;1119.88;18
+48;M;3;na;solteiro;"$40K - $60K";blue;6;3;1;5279.39;1642.1;41
+40;M;2;"sem educacao formal";divorciado;"$60K - $80K";blue;5;0;3;23603.6;1382.43;31
+57;M;0;"sem educacao formal";casado;"$40K - $60K";blue;6;2;2;2601.63;1232.15;32
+45;M;4;mestrado;solteiro;"$80K - $120K";blue;4;0;3;6363.6;1542.87;16
+41;M;3;"ensino medio";solteiro;"$80K - $120K";blue;4;3;3;8029.36;1094.01;32
+42;F;4;"sem educacao formal";casado;"menos que $40K";blue;2;2;2;2410.63;1217.56;30
+45;M;2;mestrado;solteiro;"$60K - $80K";blue;1;2;1;3401.34;744.28;18
+42;F;4;"sem educacao formal";casado;"menos que $40K";blue;4;0;2;2260.02;1614.08;33
+47;M;4;"sem educacao formal";divorciado;"$80K - $120K";blue;5;2;2;17682;1747.49;31
+48;F;4;"ensino medio";casado;"$40K - $60K";blue;3;3;1;4206.65;1144.35;22
+43;M;1;mestrado;solteiro;"$80K - $120K";silver;4;2;3;34516.1;1575.13;34
+41;M;4;"ensino medio";na;"$80K - $120K";blue;4;0;3;23018.4;1463.12;24
+54;F;1;"sem educacao formal";casado;"$40K - $60K";blue;5;3;2;5556.64;1706.57;21
+54;F;2;"ensino medio";casado;na;blue;3;1;3;6094.27;909.43;14
+61;M;0;mestrado;casado;"$40K - $60K";blue;3;2;1;2939.87;2434.79;33
+61;M;0;"sem educacao formal";casado;"$80K - $120K";blue;2;0;1;5362.12;1876.13;41
+48;M;2;"ensino medio";casado;"$120K +";blue;3;3;3;27126;1000.75;25
+45;F;4;mestrado;solteiro;"menos que $40K";blue;6;2;3;3342.44;1139.19;30
+54;F;4;mestrado;casado;na;blue;6;2;2;2532.68;799.6;21
+54;F;3;doutorado;casado;na;blue;2;3;2;1900.47;1881.8;45
+44;M;3;mestrado;solteiro;"$60K - $80K";blue;2;2;3;14546.4;1273.1;27
+50;F;4;doutorado;solteiro;na;blue;2;2;3;2521.96;1328.55;33
+55;M;2;doutorado;casado;"$60K - $80K";blue;3;3;4;16427.4;1579.45;36
+48;M;2;mestrado;na;"$40K - $60K";blue;5;2;1;13068.7;937.65;28
+45;M;2;graduacao;solteiro;"$60K - $80K";blue;6;0;3;23218.5;1749.28;37
+60;M;0;"ensino medio";casado;"$40K - $60K";blue;5;3;1;3281.26;1424.52;29
+55;M;2;"ensino medio";casado;"$40K - $60K";blue;5;2;3;3096.03;2011.99;41
+62;F;0;"ensino medio";casado;"$40K - $60K";blue;5;3;2;2052.34;1208.58;31
+38;F;1;"ensino medio";na;"menos que $40K";blue;2;0;3;1438.91;1259.96;24
+46;M;3;"ensino medio";solteiro;"$40K - $60K";blue;2;2;3;9432.64;1319.74;26
+50;M;0;"ensino medio";solteiro;"$120K +";silver;5;3;2;14938.2;949.7;27
+45;M;2;"sem educacao formal";casado;"$60K - $80K";blue;5;2;3;2221.64;1338.09;30
+47;M;3;doutorado;divorciado;"$60K - $80K";blue;6;0;3;5731.58;1554.39;26
+48;M;4;graduacao;casado;"$60K - $80K";gold;2;3;2;34516.9;1350.53;32
+35;M;3;"sem educacao formal";casado;"$60K - $80K";blue;5;2;2;6985.17;1694.63;44
+51;M;2;mestrado;casado;"$120K +";blue;3;0;3;24221.9;1678.66;40
+36;F;3;"ensino medio";casado;na;blue;4;1;1;15439.1;2069.58;43
+47;M;4;mestrado;solteiro;"$80K - $120K";blue;6;2;3;21637.3;1222.79;23
+52;M;2;mestrado;solteiro;"$120K +";blue;2;2;3;14543.7;1536.56;37
+43;F;4;"sem educacao formal";casado;"menos que $40K";blue;2;1;1;9684.93;1400.29;31
+63;M;2;"ensino medio";casado;"$40K - $60K";blue;2;2;2;5007.61;1050.52;28
+61;M;0;mestrado;casado;"$60K - $80K";blue;3;0;2;1616.44;1389.6;33
+53;M;2;"sem educacao formal";solteiro;"$60K - $80K";blue;5;2;2;19116.7;1184.3;29
+53;F;3;mestrado;casado;"menos que $40K";blue;5;2;6;2759.61;2093.03;42
+57;M;3;mestrado;casado;"$120K +";blue;2;3;3;8249.68;678.76;11
+38;F;2;mestrado;solteiro;na;blue;2;2;3;14041.1;1467.33;29
+53;M;3;"ensino medio";casado;"$60K - $80K";blue;5;2;3;5264.55;1219.05;27
+63;F;0;na;casado;"menos que $40K";blue;4;1;2;2420.01;1730.4;36
+49;F;4;"ensino medio";casado;"menos que $40K";blue;4;0;2;2826.24;1025.22;28
+45;M;2;"ensino medio";casado;"$80K - $120K";blue;5;2;5;12518.1;1165.97;33
+67;M;0;mestrado;casado;"$40K - $60K";blue;4;1;2;5876.9;2133.4;55
+48;M;3;mestrado;solteiro;"$80K - $120K";silver;3;3;2;34516.4;1122.25;13
+51;F;2;"sem educacao formal";divorciado;"menos que $40K";blue;4;2;1;9648.6;1083.67;22
+52;M;2;"ensino medio";solteiro;"$80K - $120K";silver;3;3;3;34516.3;1234.15;23
+55;F;2;"sem educacao formal";casado;na;blue;3;0;3;3025.33;1277.33;23
+34;M;3;"ensino medio";casado;"$60K - $80K";blue;4;3;3;3265.81;1843.56;35
+56;M;1;"sem educacao formal";casado;"$120K +";blue;3;2;2;6041.1;1747.65;49
+44;F;2;doutorado;casado;"menos que $40K";blue;3;2;3;2293.74;1166.3;22
+47;M;3;doutorado;na;"$80K - $120K";blue;6;2;2;13399.2;1326.68;31
+46;F;3;na;casado;"menos que $40K";blue;4;3;3;4317.78;1619.4;36
+43;F;3;mestrado;solteiro;"$40K - $60K";blue;5;0;2;3378.72;1285.61;16
+50;F;1;mestrado;solteiro;"menos que $40K";blue;4;3;1;5012.65;1142.42;28
+38;F;4;"sem educacao formal";solteiro;"menos que $40K";blue;4;0;1;2569.1;1190.87;46
+53;F;1;mestrado;solteiro;"menos que $40K";blue;3;2;1;3471.41;1052.59;24
+43;M;5;mestrado;divorciado;"$120K +";silver;5;3;3;34516.4;1628.24;38
+53;M;1;"ensino medio";casado;"$120K +";blue;6;2;3;3312.27;1740.69;32
+56;F;1;mestrado;casado;"menos que $40K";blue;4;3;3;2578.8;1378.69;29
+54;M;2;na;casado;"$40K - $60K";blue;4;2;3;2902.27;996.12;26
+57;F;3;"ensino medio";casado;"menos que $40K";blue;3;1;2;2742.66;1389.74;32
+62;M;1;"ensino medio";casado;"menos que $40K";blue;5;3;3;2077.33;1365.1;38
+46;F;4;mestrado;solteiro;"menos que $40K";blue;5;2;1;6265.85;1715.26;43
+49;M;2;"sem educacao formal";casado;"$60K - $80K";blue;6;0;3;7819.45;1582.69;25
+52;M;3;mestrado;solteiro;"$80K - $120K";blue;6;3;3;2731.13;1220.43;22
+58;M;1;"sem educacao formal";casado;"$40K - $60K";blue;2;3;4;1438.23;715.18;13
+54;M;0;"ensino medio";casado;"$80K - $120K";blue;3;2;1;16287;2552.41;49
+49;M;1;mestrado;casado;"$120K +";blue;3;3;2;34516.6;1106.62;31
+58;F;3;"ensino medio";casado;"menos que $40K";blue;6;0;1;2609.01;1731.12;34
+52;M;2;"ensino medio";solteiro;"$60K - $80K";blue;5;2;3;7567.16;1435.34;32
+41;M;5;"ensino medio";casado;"$60K - $80K";blue;5;3;3;22770.6;1882.5;38
+62;F;0;"sem educacao formal";casado;"menos que $40K";blue;5;2;1;3791.82;2058.17;34
+54;M;2;mestrado;casado;"menos que $40K";blue;4;2;4;2702.09;1658.87;32
+40;F;3;"ensino medio";divorciado;"menos que $40K";blue;3;3;1;2555.83;1334.12;32
+43;M;3;mestrado;casado;"$80K - $120K";blue;5;2;3;2355.74;1441.86;29
+53;F;2;mestrado;solteiro;"$40K - $60K";blue;6;0;2;5332.95;1371.53;39
+55;M;1;"sem educacao formal";solteiro;"$40K - $60K";blue;6;2;3;1443.22;1991.84;38
+46;M;4;mestrado;solteiro;"$60K - $80K";blue;6;3;2;10741.3;1278.64;22
+41;M;1;"sem educacao formal";casado;"$60K - $80K";blue;3;0;2;7984.59;1734.17;39
+49;M;3;"sem educacao formal";solteiro;"$60K - $80K";blue;3;2;2;18584.8;1330.66;34
+61;F;0;mestrado;casado;na;blue;4;3;1;5585.78;1787.12;31
+46;M;2;"sem educacao formal";casado;"$80K - $120K";blue;6;2;3;34516.1;1672.98;32
+50;F;1;"sem educacao formal";casado;"menos que $40K";blue;6;4;3;1438.31;1439.45;41
+40;M;2;mestrado;solteiro;"$80K - $120K";blue;5;0;1;2478.3;1558.6;31
+51;M;4;"ensino medio";solteiro;"$120K +";blue;6;3;3;34516.2;1795.79;47
+50;F;2;mestrado;casado;"$40K - $60K";blue;6;3;2;2339.82;893.56;22
+47;F;2;mestrado;casado;"menos que $40K";blue;6;2;3;2726.65;1099.14;27
+43;M;4;na;casado;"$120K +";blue;3;3;3;14881.1;1408.68;23
+36;F;4;mestrado;casado;"$40K - $60K";blue;6;3;3;1628.54;1893.82;15
+47;F;2;mestrado;casado;"menos que $40K";blue;5;2;2;3156.16;1151.85;31
+46;F;2;mestrado;solteiro;"menos que $40K";blue;5;0;3;4745.56;1519.2;31
+46;M;2;"ensino medio";casado;"$120K +";blue;5;2;3;19727.3;1245.27;25
+52;M;0;"sem educacao formal";casado;"$60K - $80K";blue;3;2;3;22720.1;1102.31;27
+43;M;4;na;casado;"$40K - $60K";blue;5;0;3;8129.12;1402.2;33
+40;F;4;mestrado;solteiro;"menos que $40K";blue;6;3;2;3751.64;1060.56;30
+54;F;4;"ensino medio";casado;"menos que $40K";blue;3;3;5;1594.95;1459.9;35
+55;F;1;"ensino medio";solteiro;"menos que $40K";blue;4;0;2;2569.81;1456.45;39
+49;F;4;doutorado;solteiro;na;blue;6;2;3;18206.9;1439.96;48
+45;M;4;"ensino medio";casado;"$40K - $60K";blue;6;3;3;3104.08;1353.35;24
+49;M;3;mestrado;casado;"$40K - $60K";blue;5;2;3;2406.44;1173.67;32
+63;M;1;"sem educacao formal";casado;"$80K - $120K";blue;5;3;2;24572;1746.91;28
+40;F;3;"ensino medio";solteiro;"menos que $40K";gold;3;3;2;15534.8;1279.8;28
+41;F;2;mestrado;casado;"menos que $40K";silver;4;0;2;12301.3;1307.95;29
+37;M;4;mestrado;casado;"$80K - $120K";blue;6;3;2;2846.62;1473.58;37
+58;M;2;"sem educacao formal";na;"$120K +";blue;6;3;2;9788.53;1805.18;37
+55;M;2;"ensino medio";casado;"$60K - $80K";blue;4;3;3;7231.03;1421.31;23
+53;F;1;"ensino medio";casado;"menos que $40K";blue;6;2;3;2324.47;1272.96;37
+57;M;2;mestrado;casado;"$80K - $120K";blue;3;3;2;12208.5;1409.9;34
+43;M;4;doutorado;na;"$80K - $120K";blue;2;3;5;5639;647.1;15
+58;M;1;mestrado;casado;"$60K - $80K";blue;3;2;3;10021.4;1275.53;25
+64;M;0;na;casado;"menos que $40K";blue;6;0;1;2215.27;1270.48;27
+54;F;2;mestrado;casado;"menos que $40K";blue;3;3;2;2027.76;1702.03;37
+53;M;2;mestrado;casado;"$60K - $80K";blue;6;2;2;6363.88;1256.35;26
+39;F;3;graduacao;solteiro;"menos que $40K";blue;6;2;1;3920.86;3178.3;53
+56;M;3;"ensino medio";casado;"$60K - $80K";blue;5;3;1;9226.7;1626.97;29
+54;F;4;na;divorciado;"menos que $40K";blue;6;1;1;9376.41;1562.81;33
+59;F;1;doutorado;casado;"$40K - $60K";blue;5;3;3;1944.32;1960.42;57
+42;M;3;"sem educacao formal";solteiro;"$40K - $60K";blue;3;0;1;9599.03;1154.25;38
+42;M;4;mestrado;casado;"$60K - $80K";silver;5;2;1;28202.3;1629.33;38
+43;M;3;graduacao;na;"$80K - $120K";blue;3;1;3;24850.9;1226.34;25
+55;M;0;"ensino medio";casado;"$120K +";blue;5;3;3;3805.2;1743.13;27
+52;M;1;"sem educacao formal";solteiro;"$80K - $120K";blue;5;2;2;2733.85;1139.41;39
+46;M;1;"sem educacao formal";na;"$40K - $60K";blue;6;3;3;12781.9;1073.87;21
+57;M;2;"sem educacao formal";casado;"$120K +";blue;3;3;3;3106.12;683.34;17
+48;M;3;graduacao;casado;"$80K - $120K";blue;3;0;3;7477.58;1159.59;32
+45;M;4;na;casado;"$120K +";blue;6;3;1;34516.7;1859.19;47
+48;M;2;"ensino medio";casado;"$120K +";blue;6;2;5;29963.3;1205.72;28
+47;M;1;mestrado;solteiro;"$40K - $60K";blue;5;0;3;6509.42;1409.82;37
+42;M;3;graduacao;casado;"$60K - $80K";blue;3;3;3;13450.2;1000.97;18
+41;M;2;mestrado;na;"$60K - $80K";silver;6;0;2;27000.8;1209.75;39
+51;M;4;graduacao;casado;"$120K +";silver;5;1;2;34516.1;1366.35;25
+55;F;2;mestrado;solteiro;"menos que $40K";blue;5;2;3;6347.91;1161.54;44
+67;M;1;"sem educacao formal";casado;"$40K - $60K";blue;4;2;3;3106.57;1512.02;38
+39;M;1;mestrado;casado;"$60K - $80K";blue;4;1;1;2536.27;1750.8;35
+54;M;3;doutorado;solteiro;"$60K - $80K";blue;6;0;3;13048.6;1170.71;24
+55;F;2;na;casado;"menos que $40K";blue;3;1;3;2453.25;2218.27;50
+47;M;3;"ensino medio";casado;"$40K - $60K";silver;3;2;2;16138.3;1198.46;33
+49;M;2;doutorado;casado;"$60K - $80K";blue;3;0;2;8077.65;1329.74;26
+42;F;2;mestrado;casado;"menos que $40K";blue;3;3;3;1929.53;857.65;36
+57;M;2;na;solteiro;"$80K - $120K";blue;3;2;3;3127.61;1470.85;30
+44;M;5;"sem educacao formal";casado;"$60K - $80K";blue;3;2;3;8645.74;1435.93;25
+56;M;3;na;solteiro;"$60K - $80K";blue;3;3;1;1438.9;1093.14;22
+49;F;3;mestrado;casado;"menos que $40K";blue;6;2;3;2185.35;715.45;20
+45;M;3;mestrado;solteiro;"$80K - $120K";blue;5;2;2;24487.1;1512.38;42
+63;M;0;"ensino medio";casado;"$60K - $80K";blue;6;3;2;2567.81;2399.15;43
+44;M;3;mestrado;solteiro;"$80K - $120K";blue;6;3;3;4131.35;906.2;22
+44;F;4;graduacao;casado;"menos que $40K";silver;3;2;2;10790.9;1052.41;16
+40;M;3;"ensino medio";casado;"$40K - $60K";blue;4;3;3;6884.71;975.32;11
+39;M;2;"sem educacao formal";solteiro;"$60K - $80K";blue;5;3;3;13961.2;783.91;20
+42;M;4;"ensino medio";casado;"$80K - $120K";blue;6;0;1;29801.9;990.42;21
+54;M;3;"ensino medio";casado;"$120K +";blue;4;1;1;13219.6;1097.59;24
+58;F;4;na;casado;"menos que $40K";blue;2;3;3;2536.46;901.87;35
+46;F;4;mestrado;divorciado;"menos que $40K";blue;5;1;3;9478.46;1327.64;41
+47;F;4;na;divorciado;"$40K - $60K";blue;6;2;1;3502.74;1814.79;31
+67;F;0;na;casado;na;blue;4;3;3;10509.3;1365.4;34
+50;F;2;graduacao;divorciado;"menos que $40K";blue;3;0;3;1491.47;1058.46;34
+55;M;0;"ensino medio";divorciado;"$60K - $80K";blue;6;2;1;9734.1;1476.19;38
+46;F;2;mestrado;casado;"$40K - $60K";blue;6;3;1;2305.95;1230.45;36
+47;F;4;"sem educacao formal";casado;"$40K - $60K";blue;3;3;1;14241.2;1581.18;44
+36;F;2;na;casado;"$40K - $60K";blue;3;2;1;4789.26;1534.85;29
+40;M;4;doutorado;divorciado;"$60K - $80K";blue;4;3;2;23139;1612.96;39
+57;M;2;na;solteiro;"$80K - $120K";blue;6;3;1;23008.8;1302.43;36
+48;M;1;na;divorciado;"$80K - $120K";blue;3;0;1;3131.28;1439.08;40
+58;F;3;mestrado;casado;"menos que $40K";blue;5;2;3;5798.11;1724.14;45
+48;M;3;mestrado;solteiro;"$40K - $60K";blue;5;3;2;6880.15;1784.37;35
+48;M;3;mestrado;na;"$80K - $120K";platinum;3;2;2;34516.2;1156.61;29
+53;F;2;graduacao;casado;"$40K - $60K";blue;6;1;2;2075.97;2556.23;49
+50;M;2;mestrado;casado;"$80K - $120K";blue;3;0;3;4589.7;1590.84;37
+52;F;1;mestrado;solteiro;"menos que $40K";blue;1;2;2;2317.39;884.01;19
+53;F;2;"sem educacao formal";solteiro;"menos que $40K";blue;1;1;1;1981.93;973.88;25
+56;F;1;mestrado;solteiro;"$40K - $60K";blue;3;1;2;6038.72;1447.17;30
+44;M;5;na;solteiro;"$80K - $120K";blue;5;2;3;14910.5;1150.27;26
+49;M;3;"ensino medio";casado;"$80K - $120K";blue;3;2;3;29659.5;1193.96;21
+54;M;2;mestrado;casado;"$60K - $80K";blue;3;2;3;4320.56;706.26;21
+39;F;1;na;solteiro;"$40K - $60K";blue;6;3;1;11214;1257.47;23
+39;F;3;"sem educacao formal";divorciado;na;blue;5;2;1;26181.9;1303.98;35
+41;F;4;"ensino medio";solteiro;"menos que $40K";blue;3;0;1;5773.68;1306.9;39
+53;M;2;"sem educacao formal";casado;"$80K - $120K";blue;1;3;3;4503.98;748.51;20
+47;M;3;"sem educacao formal";casado;"$80K - $120K";blue;6;2;2;29770.9;1774.98;42
+46;F;2;doutorado;casado;"menos que $40K";blue;5;1;1;5014.07;1209.54;25
+53;F;1;"ensino medio";casado;"menos que $40K";blue;6;2;1;3445.73;1074.67;31
+60;M;1;mestrado;casado;"$80K - $120K";blue;6;2;2;23412.5;1786.6;50
+59;F;0;mestrado;solteiro;"menos que $40K";blue;4;2;1;3044.23;1456.04;36
+38;M;1;na;solteiro;"$60K - $80K";blue;5;1;2;14596.4;1300.02;25
+56;M;4;"sem educacao formal";solteiro;"menos que $40K";blue;3;2;2;3864.94;1470.79;42
+35;M;3;doutorado;na;"$80K - $120K";blue;2;3;1;17030.7;715.56;25
+50;M;3;mestrado;solteiro;"$60K - $80K";blue;4;3;2;23091;1198.34;24
+53;M;2;doutorado;na;"$80K - $120K";blue;4;0;2;29205.3;1556.86;43
+63;M;2;mestrado;casado;"$60K - $80K";blue;5;3;2;14035.7;1606.92;30
+43;F;2;"sem educacao formal";solteiro;"menos que $40K";blue;2;2;3;2962.93;929.33;31
+46;M;2;na;casado;"$80K - $120K";blue;6;0;3;18578.6;1606.09;54
+61;M;1;"sem educacao formal";solteiro;"$60K - $80K";blue;5;2;3;2201.56;1199.06;32
+37;F;0;doutorado;casado;"menos que $40K";blue;4;2;3;2061.78;2400.07;60
+42;F;5;doutorado;casado;na;blue;4;2;2;24602.3;1337.75;44
+41;M;2;"sem educacao formal";divorciado;"$120K +";blue;3;2;2;15911.1;1270.57;33
+56;M;2;graduacao;solteiro;"$120K +";blue;2;3;2;16867.1;654.61;14
+56;M;3;mestrado;casado;"$60K - $80K";blue;3;0;3;2783.94;1909.12;54
+52;F;3;doutorado;solteiro;"menos que $40K";blue;3;2;3;2972.3;922.94;25
+40;F;3;"ensino medio";solteiro;"$40K - $60K";blue;5;2;3;5124.46;1158.63;42
+63;M;1;mestrado;casado;"$40K - $60K";blue;6;2;6;2880.27;1323.14;26
+58;M;1;"ensino medio";solteiro;"$40K - $60K";blue;4;0;1;5579.43;1025.37;35
+58;M;4;na;casado;"$60K - $80K";blue;5;3;1;12010.1;1700.49;35
+46;M;2;"sem educacao formal";divorciado;"$80K - $120K";blue;6;3;3;34517;1628.57;51
+37;F;1;mestrado;casado;"$40K - $60K";blue;5;2;2;4394.57;1377.24;32
+46;M;4;mestrado;solteiro;"$80K - $120K";blue;4;3;3;18325.2;1517.95;33
+46;F;4;doutorado;casado;"menos que $40K";blue;5;2;3;3773.73;1528.14;25
+41;M;1;mestrado;solteiro;"$80K - $120K";blue;5;3;1;21684.8;1329.95;24
+48;F;3;"ensino medio";divorciado;"$40K - $60K";blue;4;2;1;1919.28;1505.87;33
+49;F;3;mestrado;solteiro;"$40K - $60K";blue;5;2;3;9995.38;1172.88;38
+44;M;2;mestrado;casado;"$80K - $120K";blue;3;2;2;11910.9;1646.24;39
+39;F;3;graduacao;casado;"menos que $40K";blue;4;0;2;2279.86;1693.38;32
+57;M;1;graduacao;solteiro;"$40K - $60K";blue;3;2;1;3539.95;1336.23;23
+48;M;3;"ensino medio";casado;"$80K - $120K";blue;5;3;1;30579.3;1289.23;19
+47;M;3;"ensino medio";solteiro;"$80K - $120K";blue;4;0;1;24480.7;1416.75;32
+56;F;1;"sem educacao formal";divorciado;na;blue;6;2;1;17561.3;1608.98;33
+54;F;0;graduacao;casado;"menos que $40K";blue;3;2;1;1638.73;1885.66;51
+54;M;1;mestrado;casado;"$60K - $80K";blue;3;2;3;2947.19;1744.45;53
+52;M;4;"ensino medio";casado;"$80K - $120K";blue;6;0;1;5738.38;1922.73;48
+43;M;4;na;na;"$120K +";blue;5;2;2;33304.7;1448.54;29
+59;M;1;graduacao;solteiro;"$40K - $60K";blue;6;3;3;7251.6;1300.15;36
+44;M;1;na;casado;na;blue;6;0;2;2885.65;1366.5;31
+56;F;1;graduacao;casado;"menos que $40K";blue;6;3;2;2641.6;1439.62;39
+45;F;4;mestrado;casado;na;blue;6;0;3;2801.27;1241.49;46
+55;M;1;"ensino medio";casado;"$80K - $120K";blue;3;3;3;16794.4;1917.85;33
+48;F;3;graduacao;divorciado;"$40K - $60K";blue;4;3;1;9336.07;1391.01;39
+56;F;5;graduacao;solteiro;"menos que $40K";blue;4;0;1;2763.78;1246.31;31
+41;M;3;"sem educacao formal";casado;"$60K - $80K";blue;5;2;3;17391.7;1248.66;27
+65;F;1;"ensino medio";casado;"menos que $40K";blue;3;0;2;3198.3;1936.15;44
+34;M;4;doutorado;solteiro;"$80K - $120K";blue;3;2;3;5100.12;2375.8;63
+56;M;3;doutorado;casado;"$60K - $80K";blue;3;2;1;3955.3;1238.61;25
+62;F;1;"ensino medio";casado;"menos que $40K";blue;5;1;3;3140.82;1626.82;41
+45;F;3;"sem educacao formal";solteiro;na;blue;3;3;3;4028.27;791.44;22
+38;F;2;"sem educacao formal";solteiro;"menos que $40K";blue;5;3;3;2264.56;1204.81;28
+49;M;3;na;na;"$120K +";blue;5;2;2;21620.2;1300.39;33
+58;M;2;"ensino medio";solteiro;"$60K - $80K";blue;3;0;2;6385.71;1612.67;47
+41;F;4;mestrado;solteiro;"$40K - $60K";blue;4;3;2;2375.03;1071.28;28
+33;M;2;mestrado;casado;"$60K - $80K";blue;3;3;3;1963.58;1378.41;37
+47;F;4;graduacao;solteiro;"menos que $40K";blue;6;2;2;4256.94;1100.92;29
+56;F;1;mestrado;casado;"menos que $40K";blue;5;0;1;5097.67;2052.85;45
+51;M;1;mestrado;solteiro;"$60K - $80K";blue;3;3;2;3228.28;1349;33
+49;M;1;mestrado;na;"$40K - $60K";silver;6;3;1;20231.1;1215.86;36
+50;M;1;na;solteiro;"$120K +";blue;3;3;2;27512.9;1149.6;25
+55;F;3;na;casado;"$40K - $60K";blue;5;0;2;1929.71;2354.41;50
+26;M;0;mestrado;solteiro;"menos que $40K";blue;6;2;3;2585.01;2644.77;40
+58;M;1;graduacao;casado;"$80K - $120K";blue;3;3;3;12151.1;918.45;14
+46;M;3;"ensino medio";solteiro;"$80K - $120K";gold;3;2;2;34516.6;1362.7;31
+48;M;4;"ensino medio";casado;"$120K +";blue;6;1;3;34516.1;1222.86;37
+42;M;4;"sem educacao formal";divorciado;"$60K - $80K";blue;4;2;1;5504.64;1364.07;32
+37;M;4;mestrado;casado;"$80K - $120K";blue;4;2;1;10021.5;1463.75;40
+63;F;0;na;casado;"menos que $40K";blue;5;0;3;3558.15;1631.04;31
+50;M;3;"ensino medio";solteiro;"$40K - $60K";silver;4;4;3;19853.7;1878.33;55
+41;F;1;"ensino medio";solteiro;"$40K - $60K";blue;6;2;3;4969.91;1489.1;32
+48;F;3;mestrado;divorciado;"menos que $40K";blue;3;3;2;3117.02;1437.39;37
+46;M;2;graduacao;solteiro;"$80K - $120K";blue;4;0;2;21526.9;1313.27;37
+61;M;0;"ensino medio";solteiro;"$60K - $80K";blue;4;2;2;5504.96;1290.66;38
+59;F;0;na;casado;"menos que $40K";blue;4;2;3;5512.88;1975.03;49
+53;F;2;doutorado;casado;na;blue;1;3;2;1438.67;807.5;22
+39;F;3;doutorado;na;"$40K - $60K";blue;5;0;3;7262.41;1438.46;28
+51;M;3;"ensino medio";casado;"$120K +";blue;6;2;3;7319.22;1233.62;29
+45;M;2;mestrado;casado;"$60K - $80K";blue;3;3;5;1438.45;709.22;27
+48;M;4;na;solteiro;"$60K - $80K";blue;4;3;3;7712.59;1597.58;39
+47;M;1;mestrado;casado;"$60K - $80K";blue;6;0;3;2053.64;1283.89;28
+41;M;2;"ensino medio";casado;"$40K - $60K";blue;3;3;1;12804.3;1101.93;37
+48;M;4;graduacao;casado;"$80K - $120K";blue;3;2;3;26443.4;1593.88;36
+50;F;4;mestrado;solteiro;"menos que $40K";blue;6;0;2;3125.86;1631.78;46
+56;F;2;doutorado;casado;"menos que $40K";blue;6;2;1;4930.7;2194.98;53
+39;F;2;graduacao;solteiro;"menos que $40K";blue;6;3;3;9476.09;1128.92;27
+47;M;1;mestrado;casado;"$80K - $120K";blue;6;3;3;11722.7;1497.42;35
+44;M;2;mestrado;solteiro;"$120K +";blue;4;3;1;13301.4;1385.06;50
+61;F;1;na;casado;na;blue;4;3;2;1438.22;1449.36;27
+43;F;2;doutorado;casado;"menos que $40K";blue;3;1;3;1438.57;974.45;28
+59;M;1;"ensino medio";casado;"$60K - $80K";blue;3;3;2;6705.54;731.33;18
+42;F;2;"sem educacao formal";casado;na;blue;4;0;2;22718.9;1191.98;37
+40;M;4;na;divorciado;"$40K - $60K";gold;4;2;2;23981.3;1421.27;34
+65;M;2;na;casado;"menos que $40K";blue;4;4;2;2318.93;1256.68;35
+48;M;1;graduacao;casado;"$60K - $80K";blue;4;2;3;19324.7;1744.86;50
+44;M;2;mestrado;solteiro;"$40K - $60K";blue;5;1;3;5331.13;1766.89;39
+36;F;4;na;casado;na;blue;5;0;2;15700.2;2229.49;48
+45;M;4;mestrado;solteiro;"$60K - $80K";blue;6;2;2;17625.4;1773.18;39
+39;M;2;mestrado;casado;"$80K - $120K";blue;6;2;3;17438;1860.3;37
+40;M;4;graduacao;na;"$80K - $120K";blue;3;1;3;1962.4;1179.46;27
+62;M;0;"ensino medio";casado;"$60K - $80K";blue;3;2;3;8077.58;906.24;16
+26;M;0;mestrado;solteiro;"$40K - $60K";blue;6;2;1;3290.39;2781.52;54
+60;M;0;"sem educacao formal";solteiro;"menos que $40K";blue;5;2;3;2402.11;1650.5;53
+54;F;3;doutorado;solteiro;"menos que $40K";blue;6;0;1;9256.32;1446.71;37
+62;M;0;mestrado;casado;"$60K - $80K";blue;6;3;3;3674.55;1703.25;48
+57;M;2;graduacao;casado;"$40K - $60K";blue;2;3;5;6462.33;761.95;17
+59;M;0;mestrado;solteiro;"$40K - $60K";blue;4;2;2;1638.44;1536.75;44
+46;M;4;mestrado;solteiro;"$60K - $80K";blue;3;2;3;4335.5;1373.7;36
+44;M;4;"ensino medio";solteiro;"$60K - $80K";blue;5;2;3;3233.21;1256.32;29
+48;M;4;na;solteiro;"$80K - $120K";blue;1;1;3;11862.2;643.07;16
+43;M;2;"sem educacao formal";divorciado;"$120K +";silver;4;0;2;34516.2;1215.8;45
+57;M;4;"sem educacao formal";casado;"$120K +";blue;6;2;6;19802;2244.22;58
+46;M;3;graduacao;na;"$80K - $120K";blue;4;2;2;24869.3;1409.05;36
+40;M;3;"ensino medio";na;"$60K - $80K";blue;4;1;2;3624.27;1469.19;23
+54;M;1;na;casado;"$80K - $120K";blue;4;2;1;6175.7;1847.63;59
+57;F;1;mestrado;solteiro;"$40K - $60K";blue;5;0;1;10953.9;1277.75;29
+44;M;4;mestrado;casado;"$60K - $80K";blue;6;3;2;11338.9;1227.35;24
+47;F;2;doutorado;casado;"menos que $40K";blue;3;2;2;5544.96;1336.11;38
+47;M;4;doutorado;casado;"$60K - $80K";blue;4;1;1;19665.3;1110.76;58
+50;F;2;"ensino medio";casado;"menos que $40K";blue;6;3;2;2927.53;1474.21;26
+53;F;3;graduacao;casado;"$40K - $60K";blue;4;3;3;5146.86;1955.63;44
+56;M;1;graduacao;casado;"$60K - $80K";blue;5;3;3;1704.28;660.12;17
+55;M;1;"ensino medio";casado;"$60K - $80K";blue;2;3;2;1438.26;888.13;18
+53;F;4;"ensino medio";casado;"menos que $40K";blue;6;3;1;2974.42;1785.85;45
+61;M;1;na;casado;"$40K - $60K";blue;1;2;2;5472.36;705.29;14
+57;M;2;"ensino medio";casado;"$60K - $80K";blue;3;2;1;2736.52;1211.03;25
+50;M;2;mestrado;casado;"$80K - $120K";blue;6;1;2;1438.61;1391.07;40
+56;F;2;na;casado;na;blue;4;0;3;5406.94;1407.18;29
+52;M;2;mestrado;solteiro;"$120K +";blue;5;1;1;34517;1616.98;50
+60;M;0;mestrado;casado;"menos que $40K";blue;6;2;2;1976.26;1498.69;43
+49;M;4;"sem educacao formal";casado;"$80K - $120K";blue;3;1;1;8714.2;1536.03;38
+46;F;4;doutorado;divorciado;"menos que $40K";blue;4;1;1;8693.69;1594.99;45
+42;M;1;"sem educacao formal";casado;"$80K - $120K";blue;6;2;1;9247.32;1190.83;30
+45;M;3;"ensino medio";casado;"menos que $40K";blue;6;0;5;7717.01;1248.34;37
+45;F;4;"sem educacao formal";casado;"menos que $40K";blue;3;3;4;4908.17;827.15;21
+44;F;3;doutorado;casado;"menos que $40K";blue;6;3;1;7222.18;920.76;18
+61;M;0;"sem educacao formal";solteiro;"$80K - $120K";blue;6;2;2;21740.2;1755.9;54
+55;M;3;"sem educacao formal";casado;"$60K - $80K";blue;3;2;2;2323.81;804.55;15
+44;M;4;na;divorciado;"$60K - $80K";blue;4;2;2;7788.34;1196.42;30
+55;F;1;na;casado;"menos que $40K";blue;4;3;1;1438.99;850.04;22
+57;M;2;na;casado;"$120K +";blue;3;2;2;23700.9;1644.84;28
+45;M;2;doutorado;casado;"$80K - $120K";blue;6;1;3;11710.5;1749.63;50
+57;F;0;"ensino medio";casado;"$40K - $60K";blue;3;2;2;2278.5;2307.03;45
+31;M;0;"sem educacao formal";casado;"$40K - $60K";blue;3;0;3;4048.48;1757.84;45
+34;F;2;mestrado;casado;"menos que $40K";blue;6;2;2;3663.53;1826.9;35
+53;F;1;mestrado;solteiro;"menos que $40K";blue;2;3;2;1438.29;799.32;17
+35;F;1;graduacao;solteiro;na;blue;4;2;5;3518.48;2121.31;60
+44;F;4;mestrado;casado;"menos que $40K";blue;4;0;1;1717.07;1468.28;29
+50;M;1;mestrado;casado;"$80K - $120K";blue;3;2;2;16813.5;1482.26;46
+33;M;3;doutorado;casado;"$80K - $120K";blue;4;3;2;16434.7;1726.34;37
+50;M;3;mestrado;solteiro;"$60K - $80K";blue;4;3;2;21872.6;1806.61;31
+51;M;4;"ensino medio";casado;"$80K - $120K";blue;5;0;2;15898;1405.97;43
+56;F;4;na;casado;"menos que $40K";blue;5;2;3;4271.11;2052.37;50
+55;F;3;mestrado;solteiro;"menos que $40K";blue;6;2;1;7361;1175.42;34
+26;M;0;graduacao;solteiro;"menos que $40K";blue;4;3;1;1438.43;1786.91;37
+42;F;3;mestrado;casado;"menos que $40K";blue;6;3;3;8628.28;1675.44;58
+54;M;2;graduacao;casado;"$80K - $120K";blue;4;3;3;18750.3;1200.84;36
+44;F;3;mestrado;casado;na;blue;4;3;2;21242.6;1283.42;37
+65;F;0;mestrado;casado;"$40K - $60K";blue;5;0;3;2961.47;1937.51;57
+38;F;3;"ensino medio";casado;na;blue;4;2;2;11327.1;2033.32;38
+58;M;3;"ensino medio";casado;"$60K - $80K";blue;6;3;1;8308.84;1915.06;37
+39;F;3;doutorado;casado;"$40K - $60K";blue;4;2;2;3249.28;1988.86;36
+52;M;2;"ensino medio";casado;"$120K +";blue;5;2;1;2981.69;1648.38;30
+45;F;3;mestrado;casado;"menos que $40K";blue;4;0;1;8829.21;1902.32;45
+42;M;3;na;solteiro;"$80K - $120K";blue;3;2;3;3714.31;1454.58;35
+42;M;2;graduacao;casado;"$60K - $80K";blue;6;3;1;7340.58;838.57;24
+57;M;4;doutorado;casado;"$120K +";blue;4;3;2;16952.1;1918.43;61
+55;M;3;doutorado;solteiro;"$80K - $120K";blue;4;3;1;20865.5;837.79;25
+44;F;3;graduacao;na;"menos que $40K";blue;6;2;3;3083.27;4311.86;78
+37;F;3;mestrado;casado;na;blue;3;2;2;10584.3;1567.22;33
+50;F;3;na;casado;"menos que $40K";blue;4;2;1;2240.06;1905.44;39
+51;M;2;mestrado;casado;"$40K - $60K";blue;5;2;1;12240.6;1422.8;26
+37;M;1;mestrado;casado;"$80K - $120K";blue;6;0;2;5120.31;1680.12;32
+36;F;2;mestrado;casado;"menos que $40K";blue;3;3;1;3124.27;1652.88;41
+51;F;2;"ensino medio";casado;"menos que $40K";silver;5;0;3;11261.7;1158.09;26
+65;M;1;"sem educacao formal";casado;"$40K - $60K";blue;3;2;3;2468.1;1797.86;46
+43;M;2;graduacao;casado;"$60K - $80K";blue;4;3;2;22157.5;1911.82;55
+46;M;3;mestrado;casado;"$40K - $60K";blue;6;3;2;11477.9;1260.29;27
+43;F;2;mestrado;casado;"menos que $40K";blue;5;2;2;3933.04;1489.11;45
+56;M;3;mestrado;casado;"$80K - $120K";blue;3;3;3;8022.01;1794.45;31
+43;M;3;na;solteiro;"$60K - $80K";blue;6;0;2;13771.8;1510.42;42
+53;M;1;mestrado;solteiro;"$80K - $120K";blue;3;3;3;30271.4;3231.76;47
+50;M;2;"ensino medio";na;"$60K - $80K";blue;6;2;2;3244.68;1274.24;32
+43;F;3;mestrado;casado;"$40K - $60K";blue;6;3;1;2936.33;1572.56;57
+54;M;3;"ensino medio";casado;"$80K - $120K";blue;6;2;1;1438.98;1935.13;41
+33;M;2;na;casado;"$60K - $80K";blue;6;3;3;6242.24;2187.84;59
+58;F;2;"sem educacao formal";casado;"$40K - $60K";blue;3;3;1;6175.99;1417.09;25
+41;M;3;mestrado;solteiro;"$80K - $120K";blue;4;2;3;11806.9;1465.99;31
+48;M;3;doutorado;solteiro;"$60K - $80K";blue;5;2;2;4734.64;1570.94;45
+55;M;2;"ensino medio";solteiro;"$40K - $60K";blue;5;0;2;6244.24;1445.79;40
+54;F;2;mestrado;casado;"menos que $40K";blue;3;3;1;1438.81;694.56;15
+51;F;3;doutorado;divorciado;na;platinum;3;2;1;34517;1929.84;40
+35;M;3;mestrado;solteiro;"$80K - $120K";blue;4;2;1;23561.9;2447.49;64
+50;M;3;"sem educacao formal";solteiro;"$80K - $120K";blue;5;3;2;24742;1306.89;31
+55;M;4;"ensino medio";casado;"$80K - $120K";blue;2;2;2;27560.2;646.39;10
+45;F;0;graduacao;divorciado;"menos que $40K";blue;6;3;1;5923.75;1236.83;35
+34;M;2;"sem educacao formal";casado;"$60K - $80K";blue;6;2;1;8581.2;2513.75;63
+55;F;4;mestrado;casado;"$40K - $60K";blue;4;3;3;3156.99;2091.56;48
+48;F;2;na;casado;"menos que $40K";blue;5;3;1;7151.64;854.93;22
+46;M;4;mestrado;casado;"$60K - $80K";blue;5;2;1;1535.78;1848.41;25
+61;F;0;mestrado;casado;"menos que $40K";blue;3;3;3;2122.22;949.3;17
+48;M;1;"sem educacao formal";na;"$60K - $80K";blue;3;2;2;17131.9;1371.32;37
+51;F;1;mestrado;casado;"menos que $40K";blue;6;2;2;5822.06;1804.34;49
+39;M;3;doutorado;casado;"$60K - $80K";blue;3;3;1;3537.25;1605.17;43
+43;M;3;mestrado;casado;"$120K +";blue;3;3;1;34516.4;1463.92;38
+53;M;3;mestrado;solteiro;"$60K - $80K";blue;6;3;4;16320.1;1279.02;41
+38;M;2;"ensino medio";casado;"$80K - $120K";blue;5;3;3;2407.13;1470.12;28
+49;F;2;"ensino medio";solteiro;"menos que $40K";blue;4;2;1;3538.42;1265.25;38
+37;F;0;na;casado;"menos que $40K";blue;5;2;2;2684.77;2002.16;60
+53;M;3;mestrado;solteiro;"$80K - $120K";blue;4;2;3;34516.1;1475.68;33
+46;M;2;doutorado;solteiro;"$40K - $60K";silver;4;2;2;15459.5;1419;30
+44;F;3;"sem educacao formal";solteiro;"menos que $40K";blue;5;3;3;4307.23;1628.12;37
+50;F;1;na;solteiro;"menos que $40K";blue;4;3;2;2081.3;1337.03;29
+58;F;2;"sem educacao formal";casado;"$40K - $60K";blue;3;2;2;2848.78;1135.33;27
+55;M;3;"ensino medio";solteiro;"$120K +";blue;3;3;1;34516.2;1161.9;26
+44;M;3;graduacao;na;"$80K - $120K";blue;6;2;1;6361.67;1571.9;38
+57;M;4;"ensino medio";casado;"$80K - $120K";blue;4;3;1;15428.9;1916.57;40
+57;M;1;"ensino medio";casado;"$40K - $60K";blue;5;3;1;2544.23;1346.62;30
+48;M;3;"ensino medio";casado;"$80K - $120K";blue;1;3;1;9959.64;805.47;24
+51;M;1;mestrado;solteiro;"$60K - $80K";blue;3;2;3;8796.83;1195.72;18
+53;F;3;"sem educacao formal";casado;"menos que $40K";blue;6;3;1;3428.47;1155.65;34
+45;F;1;doutorado;solteiro;"menos que $40K";blue;6;2;2;1438.21;1431.12;34
+41;M;4;doutorado;casado;"$60K - $80K";blue;5;2;3;18001.9;1194.85;25
+51;F;4;mestrado;solteiro;"menos que $40K";blue;3;3;1;2680.55;1154.85;33
+46;F;2;"ensino medio";casado;"menos que $40K";blue;6;3;4;4675.83;1232.53;34
+40;F;5;graduacao;casado;"menos que $40K";blue;3;3;1;2448.82;1269.48;30
+33;M;2;doutorado;casado;"$60K - $80K";blue;3;3;3;4049.6;1742.4;35
+53;M;1;"ensino medio";solteiro;"$80K - $120K";blue;6;2;2;8154.94;1379.14;26
+63;M;1;"ensino medio";casado;"$40K - $60K";blue;5;2;3;4559.5;1870.26;35
+61;M;0;"sem educacao formal";solteiro;"$80K - $120K";blue;4;1;2;19354.8;1207.82;32
+56;M;4;"ensino medio";casado;"$60K - $80K";blue;3;3;3;2340.29;781.48;15
+53;M;2;mestrado;solteiro;"$60K - $80K";blue;6;0;3;13848.6;1773.8;38
+62;F;2;mestrado;casado;"menos que $40K";blue;4;2;2;2490.25;864.95;20
+50;F;4;na;casado;na;silver;6;2;1;32156.3;1559.28;39
+37;M;4;mestrado;casado;"$60K - $80K";blue;5;2;3;2578.17;1830.21;64
+62;F;0;mestrado;casado;na;blue;6;2;3;9050.95;1542.36;43
+49;M;3;"sem educacao formal";solteiro;"$80K - $120K";silver;4;2;1;34516.1;1506.57;47
+57;F;3;"ensino medio";casado;na;blue;6;0;1;8362.85;1175.37;41
+55;M;2;"ensino medio";casado;"$80K - $120K";blue;3;3;2;6514.1;1383.81;20
+50;M;1;mestrado;casado;"$80K - $120K";blue;3;4;3;4051.31;1837.27;57
+48;M;3;graduacao;casado;"$60K - $80K";blue;3;2;3;11959.2;1191.49;40
+60;F;1;"sem educacao formal";divorciado;"$40K - $60K";blue;3;2;2;2070;1793.69;53
+46;M;1;na;solteiro;"$120K +";blue;5;1;2;11841;1560.93;49
+47;M;2;graduacao;casado;"$120K +";blue;4;2;3;3636.21;1564.05;59
+54;M;2;"sem educacao formal";casado;"$60K - $80K";blue;3;3;3;11067.3;1843.06;38
+53;M;2;doutorado;casado;"$60K - $80K";blue;3;3;3;11262.1;2165.71;61
+56;F;3;mestrado;solteiro;"$40K - $60K";blue;4;0;1;5108.61;1631.49;41
+56;F;4;"ensino medio";casado;"$40K - $60K";blue;5;1;1;2072.99;1265.72;32
+41;M;3;"sem educacao formal";casado;"$80K - $120K";blue;4;3;3;4119.73;1455.07;35
+60;F;1;mestrado;casado;"$40K - $60K";blue;5;3;3;5903.27;1137.09;27
+40;M;5;mestrado;na;"$40K - $60K";blue;6;3;2;7860.47;1367.68;35
+49;F;3;doutorado;casado;"$40K - $60K";blue;6;2;2;5918.44;1292.79;26
+46;M;4;mestrado;solteiro;"$40K - $60K";blue;5;2;3;6741.43;1682.43;46
+36;F;3;"ensino medio";casado;"menos que $40K";blue;6;2;1;3880.34;1598.46;39
+57;F;2;na;casado;"menos que $40K";blue;4;0;2;2494.71;1555.91;39
+38;M;1;"ensino medio";casado;"$80K - $120K";blue;4;2;3;22149.1;2409.94;36
+50;M;3;mestrado;divorciado;"$80K - $120K";blue;4;1;3;34516.9;1770.94;65
+62;M;0;mestrado;casado;"$60K - $80K";blue;3;0;2;5450.71;1526.8;45
+43;M;3;na;casado;"$40K - $60K";blue;2;3;2;1438.53;891.81;28
+44;F;5;na;solteiro;"menos que $40K";blue;4;3;3;2003.2;1756.15;42
+39;M;2;"sem educacao formal";solteiro;"$40K - $60K";blue;6;2;3;7723.28;1241.99;22
+38;M;2;graduacao;casado;"$80K - $120K";blue;4;1;1;18226.7;1681.78;43
+44;F;4;graduacao;casado;"menos que $40K";blue;4;2;2;8128.36;1224.08;32
+43;M;3;"ensino medio";casado;"$80K - $120K";blue;6;3;2;5851.14;1573;38
+54;M;1;doutorado;solteiro;"$80K - $120K";blue;6;3;3;10260.1;1566.79;50
+38;F;3;na;solteiro;na;blue;5;0;1;26945.3;1579.4;40
+55;M;2;na;solteiro;"$60K - $80K";blue;6;3;3;2243.71;1334.8;31
+42;M;5;na;na;"$120K +";blue;4;2;1;34517;1230.82;34
+56;M;3;na;casado;"$60K - $80K";blue;5;2;3;12248.2;767.66;25
+59;F;1;na;casado;na;blue;3;3;2;1438.92;724.37;16
+46;M;4;"sem educacao formal";solteiro;"$80K - $120K";blue;4;2;3;19843.6;1638.15;49
+55;F;2;doutorado;casado;"menos que $40K";blue;3;3;3;2163.64;1349.91;47
+52;M;1;doutorado;casado;"$120K +";blue;4;2;2;33864.9;1751.42;48
+39;F;2;mestrado;casado;"menos que $40K";blue;3;2;1;4531.23;1414.68;40
+42;F;4;mestrado;solteiro;"menos que $40K";blue;5;3;2;2950.43;1260.93;32
+43;F;4;graduacao;casado;"menos que $40K";blue;6;3;2;7706.53;965.72;27
+47;F;1;"ensino medio";na;na;blue;5;0;1;25657.8;1121.84;25
+42;F;4;na;divorciado;na;blue;5;2;3;17536.6;1411.77;28
+39;M;1;graduacao;solteiro;"$40K - $60K";blue;4;3;3;3770.8;1602.83;49
+50;M;1;"sem educacao formal";solteiro;"$60K - $80K";blue;5;2;2;10344.9;1617.35;47
+57;M;2;doutorado;divorciado;"$120K +";blue;4;1;1;26437.1;1244.66;36
+41;M;4;na;casado;"menos que $40K";blue;4;1;6;2450.07;1263.18;29
+52;F;1;"ensino medio";casado;"$40K - $60K";blue;5;2;1;3136.85;1036.82;25
+43;M;2;"ensino medio";solteiro;"$60K - $80K";blue;4;2;3;6976.79;1217.04;39
+42;M;3;"ensino medio";solteiro;"$80K - $120K";blue;4;1;3;21134.1;1556.31;35
+58;F;2;"sem educacao formal";casado;"$40K - $60K";blue;6;3;2;2019.66;2005.76;62
+42;M;4;graduacao;casado;"$80K - $120K";blue;3;3;2;34516.5;1698.96;67
+55;M;1;doutorado;casado;"$80K - $120K";blue;5;3;3;9959.5;2041.75;45
+38;M;2;na;solteiro;"$80K - $120K";blue;4;2;3;20242;1102.49;31
+40;F;2;mestrado;casado;"menos que $40K";blue;3;2;1;2421.01;1346.57;30
+48;M;4;"sem educacao formal";casado;"$80K - $120K";blue;5;3;6;30948.8;1511.29;35
+32;F;1;na;casado;"menos que $40K";blue;3;2;3;2642.12;1761.65;42
+33;F;2;"ensino medio";solteiro;"menos que $40K";blue;4;1;1;8070.24;2117.7;61
+58;M;2;mestrado;casado;"$40K - $60K";blue;2;3;3;4085.97;596.38;15
+26;M;0;na;solteiro;"$40K - $60K";blue;5;2;2;2187.05;2560.35;46
+46;M;0;na;casado;"$60K - $80K";gold;3;2;3;34516.9;1409.28;39
+39;F;1;mestrado;casado;na;blue;4;2;3;3358.25;1759.87;33
+36;F;1;graduacao;solteiro;"$40K - $60K";blue;6;3;3;1888.68;1886.46;66
+43;M;2;"sem educacao formal";casado;"$60K - $80K";blue;2;3;3;14447.3;915.88;29
+45;M;2;na;solteiro;"$60K - $80K";silver;6;2;3;32349.5;1343.07;41
+51;F;3;graduacao;casado;na;blue;3;3;2;12605.8;1870.29;56
+62;F;0;na;casado;"$40K - $60K";blue;4;2;2;2964.96;1557.5;25
+58;M;0;"sem educacao formal";casado;"$80K - $120K";blue;6;3;3;3785.54;1824.76;49
+42;M;4;mestrado;solteiro;"$60K - $80K";blue;5;0;1;2727.72;1294.05;26
+49;M;4;doutorado;casado;"$60K - $80K";blue;3;1;1;3343.12;1545.73;31
+53;F;3;"sem educacao formal";solteiro;"menos que $40K";blue;6;1;3;9786.48;820.19;25
+45;F;2;"ensino medio";casado;"$40K - $60K";blue;4;3;1;6407.2;1675.95;47
+29;M;2;"ensino medio";casado;"$80K - $120K";blue;6;2;2;4158.42;1678.21;37
+60;M;1;doutorado;casado;"$120K +";blue;6;2;1;21697.7;2117.62;48
+50;M;3;doutorado;solteiro;"$80K - $120K";blue;5;2;2;31383.1;1721.19;56
+53;M;3;doutorado;solteiro;"$120K +";blue;3;0;1;30883.9;1267.49;23
+45;M;3;na;casado;"$80K - $120K";blue;6;1;3;12919;1562.95;33
+50;F;2;"sem educacao formal";solteiro;"menos que $40K";blue;3;0;3;8520.14;1193.26;35
+46;M;2;doutorado;solteiro;"$80K - $120K";blue;4;2;3;14310.6;1254.51;34
+61;M;0;doutorado;casado;na;blue;6;3;2;14434.4;1731.13;32
+46;M;4;graduacao;solteiro;"$120K +";blue;5;1;2;7793.57;1099.32;39
+62;F;1;"ensino medio";casado;na;blue;2;2;1;8990.25;747.49;19
+43;F;3;mestrado;casado;"$40K - $60K";blue;6;3;2;4343.81;1352.14;35
+54;M;4;mestrado;casado;"$120K +";blue;4;0;2;2872.14;1770.08;47
+50;M;2;na;solteiro;"$120K +";blue;5;3;1;9697.38;1812.77;50
+35;M;2;"ensino medio";casado;"$40K - $60K";blue;3;1;3;2967.65;1673.7;58
+35;M;3;doutorado;solteiro;"$40K - $60K";blue;4;2;3;2148.15;2167.31;65
+36;F;1;"ensino medio";solteiro;"menos que $40K";blue;6;1;3;6116.41;2369.76;56
+42;M;3;na;casado;"$80K - $120K";blue;5;2;2;18085.2;1582.16;47
+39;F;2;na;casado;"menos que $40K";blue;6;0;3;2524.06;1800.46;33
+50;M;1;na;casado;"$80K - $120K";blue;5;2;2;33951;1567.08;44
+43;M;3;doutorado;solteiro;"$60K - $80K";blue;3;2;3;3312.82;647.94;19
+39;F;1;"ensino medio";solteiro;"$40K - $60K";blue;3;2;2;9956.5;1447.66;39
+47;M;2;doutorado;casado;"menos que $40K";blue;6;3;1;3888.79;1145.16;37
+60;M;1;doutorado;solteiro;"$80K - $120K";blue;3;3;1;30655.1;3280.84;78
+30;M;2;"ensino medio";casado;"menos que $40K";blue;4;0;2;2997.81;1577.43;35
+44;M;4;na;solteiro;"$60K - $80K";blue;5;2;3;11042.7;1140.6;25
+52;M;0;mestrado;solteiro;"$120K +";blue;6;2;3;3386.89;1736.7;40
+45;F;4;na;solteiro;"menos que $40K";gold;6;3;1;15987.6;1436.71;36
+40;M;4;mestrado;divorciado;"$120K +";blue;5;3;3;25188.6;1513.68;38
+36;F;3;doutorado;solteiro;"menos que $40K";blue;6;1;2;2410.32;2505.39;69
+65;F;0;"ensino medio";casado;na;blue;4;0;3;4315.96;1723.36;51
+35;F;0;na;casado;"menos que $40K";blue;6;1;1;2592.3;1695;48
+54;F;2;na;divorciado;"$40K - $60K";blue;5;2;3;5476.57;1532.72;44
+53;M;3;na;casado;"$80K - $120K";blue;5;0;3;2464.55;2110.97;43
+62;F;1;graduacao;casado;"menos que $40K";blue;3;3;2;2378.62;1807.92;45
+40;M;2;na;solteiro;"$120K +";blue;6;3;4;20056.3;1687.7;46
+41;M;4;"ensino medio";casado;"$60K - $80K";blue;4;2;2;8013.4;1481.89;45
+53;M;2;na;casado;"$120K +";blue;6;3;2;3386.28;1318.15;37
+30;M;1;"ensino medio";casado;"$60K - $80K";blue;3;2;3;7906.45;1946.95;45
+46;M;3;"sem educacao formal";divorciado;"$60K - $80K";blue;4;0;3;11501.9;1481.25;41
+29;M;0;doutorado;solteiro;"$40K - $60K";blue;4;2;1;13632.8;2168.41;42
+37;F;3;"sem educacao formal";casado;"menos que $40K";blue;6;3;1;2229.89;1583.72;32
+51;F;1;"ensino medio";casado;"menos que $40K";blue;4;1;1;5158.67;1229.93;34
+31;M;0;mestrado;casado;"$40K - $60K";blue;3;0;3;2158.82;1718.41;42
+45;M;2;"sem educacao formal";na;"$80K - $120K";blue;6;2;2;23271.2;1402.66;34
+57;M;1;mestrado;solteiro;"$80K - $120K";blue;2;2;3;10244.3;1127.79;29
+43;M;3;na;divorciado;"$60K - $80K";blue;3;1;2;2588.51;1053.15;31
+44;M;3;mestrado;casado;"$40K - $60K";blue;4;3;2;10747.1;1340.14;25
+53;M;2;"ensino medio";casado;"$120K +";blue;4;1;3;7474.19;732.88;21
+32;F;3;mestrado;solteiro;"menos que $40K";blue;3;3;1;3555.73;2346.74;71
+53;M;1;mestrado;casado;"$80K - $120K";blue;6;2;3;22140.6;1580.67;45
+54;M;3;"ensino medio";casado;"$80K - $120K";blue;2;4;3;9457.17;1196.4;28
+42;M;3;"sem educacao formal";na;"menos que $40K";blue;4;0;5;6218.78;2086.24;50
+38;F;1;graduacao;casado;"menos que $40K";blue;3;1;3;2580.44;1665.22;57
+44;M;2;na;casado;"$80K - $120K";blue;6;2;2;1438.63;1495.93;39
+54;M;2;mestrado;casado;"$60K - $80K";blue;6;1;3;6224.09;2187.25;58
+37;F;4;"ensino medio";solteiro;"$40K - $60K";blue;5;1;3;3093.73;1371.1;23
+48;F;2;mestrado;casado;"$40K - $60K";blue;4;3;3;4076.28;1235.88;37
+55;F;3;mestrado;casado;na;blue;3;0;2;4861.41;1556.45;40
+43;F;1;mestrado;na;na;blue;6;3;3;9851.07;1212.52;24
+37;M;1;"ensino medio";solteiro;"$60K - $80K";blue;4;2;3;7349.01;2701.68;60
+34;M;2;"ensino medio";casado;"$60K - $80K";blue;3;3;3;2853.51;1750.24;47
+46;F;4;mestrado;solteiro;na;blue;4;2;3;17023.1;1610.74;43
+32;M;1;na;solteiro;"$40K - $60K";blue;6;3;2;10060.5;2184.59;63
+53;M;3;na;casado;"$40K - $60K";blue;6;2;1;1595.87;1745.05;41
+46;M;3;mestrado;divorciado;"$80K - $120K";blue;3;1;2;8475.61;1381.79;40
+38;M;1;graduacao;casado;"menos que $40K";blue;6;3;3;5559.91;1793.18;37
+31;F;0;mestrado;casado;"menos que $40K";blue;3;2;3;2917.48;1831.82;36
+38;M;2;na;solteiro;"$60K - $80K";blue;3;3;3;6692.05;1468.89;36
+46;F;3;mestrado;solteiro;"menos que $40K";blue;2;3;2;8551.53;1097.06;32
+47;M;3;"ensino medio";casado;"$60K - $80K";blue;6;3;2;10569.7;1682.84;44
+47;F;3;mestrado;casado;"menos que $40K";blue;5;2;2;7051.61;1451.08;37
+56;M;1;graduacao;casado;"$60K - $80K";blue;3;1;2;10117.3;1509.52;44
+47;M;2;"sem educacao formal";na;"$60K - $80K";blue;6;1;2;8311.16;1895.56;57
+47;M;4;mestrado;solteiro;"$80K - $120K";blue;5;2;3;26442.1;1403.76;40
+64;F;0;mestrado;casado;"menos que $40K";blue;6;1;3;4920.33;1420.36;31
+37;F;3;na;casado;"menos que $40K";blue;6;1;2;1438.25;1717.44;31
+42;M;1;graduacao;casado;"$60K - $80K";silver;5;2;2;26750.6;1131.46;29
+41;M;4;graduacao;casado;"$80K - $120K";silver;4;3;3;34516.1;1005;22
+65;F;0;"ensino medio";casado;"menos que $40K";blue;3;2;3;1439;948.98;24
+49;F;3;doutorado;casado;"$40K - $60K";blue;6;2;2;1869.49;1549.68;34
+54;M;5;"ensino medio";casado;"$60K - $80K";blue;5;3;2;14540;965.7;26
+46;M;3;"sem educacao formal";solteiro;"$120K +";blue;5;3;1;26977.1;1958.8;41
+50;M;2;na;casado;"$40K - $60K";blue;3;3;1;5426.01;1266.35;22
+50;F;3;na;casado;"menos que $40K";blue;6;3;1;7623.63;1367.62;29
+48;F;1;doutorado;casado;"menos que $40K";blue;3;3;3;4844.43;1489.38;48
+62;F;0;na;casado;na;blue;6;1;1;2683.76;1582.21;33
+39;F;1;graduacao;casado;"menos que $40K";blue;3;2;1;3214.56;2516.6;42
+46;M;1;na;casado;"$60K - $80K";blue;4;3;3;5374.59;1557.23;49
+41;M;2;"sem educacao formal";casado;"$80K - $120K";blue;5;3;3;8004.11;1084.7;32
+39;F;2;mestrado;casado;na;blue;4;3;2;1438.1;2583.3;47
+46;M;2;na;casado;"$80K - $120K";blue;3;3;3;2925.15;1371.25;30
+39;F;2;"sem educacao formal";solteiro;"menos que $40K";blue;5;3;3;9235.41;1537.79;49
+44;M;0;"sem educacao formal";casado;"menos que $40K";blue;5;0;3;8837.34;3753.43;60
+57;F;3;na;solteiro;"menos que $40K";blue;6;1;1;8801.22;1104.49;31
+40;M;3;na;solteiro;"$40K - $60K";blue;4;1;1;3563.48;1483;42
+65;F;0;"ensino medio";casado;na;blue;4;2;3;8138.91;1299.34;29
+26;F;1;mestrado;solteiro;"$40K - $60K";blue;6;3;3;1438.99;2167.86;48
+47;M;2;"ensino medio";na;"$60K - $80K";blue;4;2;2;2458.05;1563.61;40
+47;M;4;"ensino medio";casado;"$60K - $80K";blue;5;3;2;4592.15;1772.35;52
+57;F;2;"ensino medio";casado;"$40K - $60K";blue;2;3;1;1438.45;1254.68;35
+31;M;1;na;casado;"menos que $40K";blue;3;3;3;1868.58;2229.34;35
+54;M;4;mestrado;casado;"$60K - $80K";blue;3;2;1;5269.88;2195.67;63
+43;F;2;doutorado;casado;na;blue;3;3;3;20156.3;1362.86;28
+39;M;2;graduacao;casado;"$60K - $80K";blue;4;2;3;7410.79;2398.51;37
+53;M;3;mestrado;casado;"$120K +";blue;3;3;2;12163.9;2649.58;56
+44;M;3;na;casado;"$60K - $80K";blue;3;3;2;6224.95;1463.2;34
+59;M;0;graduacao;casado;"menos que $40K";blue;3;3;3;4250.61;1174.71;27
+53;F;3;mestrado;casado;na;blue;6;1;3;12059.1;1836.4;36
+34;F;3;"sem educacao formal";casado;"$40K - $60K";blue;5;3;1;2799.14;1817.97;39
+47;M;4;doutorado;solteiro;"$80K - $120K";blue;3;1;1;18037.2;1387.01;36
+54;M;2;graduacao;casado;"$120K +";blue;3;3;2;5657.31;2028.24;55
+42;F;2;mestrado;casado;na;blue;6;1;1;13770.3;1582.35;36
+53;F;3;graduacao;casado;"menos que $40K";blue;6;3;2;4646.76;1774.9;37
+50;M;2;mestrado;solteiro;"$80K - $120K";blue;3;1;3;2514.72;1636.87;36
+56;M;0;graduacao;casado;"$80K - $120K";blue;3;3;2;14501.7;1031.48;25
+43;M;3;"ensino medio";casado;"$60K - $80K";blue;1;3;3;8663.4;916.04;33
+44;F;4;"ensino medio";divorciado;"menos que $40K";blue;5;3;3;2333.45;1198.05;31
+34;F;4;mestrado;divorciado;"$40K - $60K";blue;5;3;5;3038.87;2189.21;54
+61;M;1;mestrado;na;"$80K - $120K";blue;6;1;6;8851.38;1257.2;36
+54;F;0;na;casado;"menos que $40K";blue;6;1;3;2945.25;1503.94;35
+49;F;3;"ensino medio";divorciado;na;blue;3;2;3;5267.79;1354;24
+56;M;3;"ensino medio";solteiro;"$60K - $80K";blue;2;3;1;8512.67;811.43;27
+47;M;1;mestrado;casado;"$60K - $80K";blue;4;2;3;19064;1270.28;21
+53;M;4;mestrado;solteiro;"$80K - $120K";blue;5;3;3;5376.97;1840.32;53
+30;F;0;mestrado;divorciado;na;blue;5;2;1;7772.67;2585.53;75
+39;F;2;"ensino medio";casado;"$40K - $60K";blue;6;1;1;9173.19;1807.11;33
+44;M;2;mestrado;casado;"$80K - $120K";silver;4;3;1;34516.7;1729.62;52
+54;F;3;"sem educacao formal";solteiro;na;blue;5;2;1;11975.1;1211.86;35
+46;M;2;mestrado;casado;"$60K - $80K";blue;3;3;2;15405.7;1763.53;44
+43;M;3;na;solteiro;"$40K - $60K";blue;6;1;1;2615.57;1395.72;34
+35;M;1;"ensino medio";casado;"$80K - $120K";blue;6;2;1;23991;1843.4;43
+39;F;4;graduacao;casado;"menos que $40K";blue;4;3;3;1888.79;1517.56;33
+61;F;1;mestrado;casado;"menos que $40K";blue;3;2;2;3102.28;1977.78;50
+40;F;3;mestrado;divorciado;"menos que $40K";blue;5;2;2;3170.01;2027.11;49
+53;M;3;graduacao;solteiro;"$120K +";blue;6;0;2;34516.3;1497.88;43
+55;M;2;na;casado;"$120K +";blue;4;2;3;14938.4;1134.55;31
+41;M;2;na;solteiro;"$60K - $80K";blue;6;2;2;17298.8;3663;65
+35;M;2;"sem educacao formal";casado;"menos que $40K";blue;4;3;3;3131.14;1483.28;31
+61;M;1;na;solteiro;"$40K - $60K";blue;3;2;2;11915.8;1956.16;63
+51;M;2;"sem educacao formal";solteiro;"$120K +";blue;3;1;3;16869;940.96;25
+42;M;3;"ensino medio";solteiro;"$40K - $60K";blue;4;3;3;3266.96;2183.1;56
+46;M;2;na;divorciado;"$80K - $120K";blue;3;3;3;2770.98;2920.7;74
+46;F;4;"ensino medio";solteiro;"menos que $40K";blue;3;2;2;3556.34;1221.11;41
+46;M;4;"sem educacao formal";casado;"$40K - $60K";blue;3;2;2;9149.82;1790.31;60
+26;M;0;mestrado;solteiro;na;blue;4;2;1;1438.74;2005.09;47
+46;M;3;"ensino medio";casado;"$60K - $80K";blue;4;3;3;14701.9;3490.95;69
+62;M;1;mestrado;casado;"$60K - $80K";blue;5;2;2;14825.8;1904.45;49
+55;M;2;"sem educacao formal";divorciado;"$60K - $80K";blue;4;3;5;10127.8;1647.44;53
+55;M;2;graduacao;casado;"$80K - $120K";blue;5;2;1;2929.02;1903.87;39
+32;M;0;"ensino medio";casado;"$40K - $60K";blue;5;0;2;3735.3;1564.55;41
+37;F;4;"sem educacao formal";casado;"menos que $40K";blue;5;2;1;2930.44;1686.22;34
+33;F;4;"ensino medio";solteiro;na;blue;6;3;2;12716.7;2412.04;64
+42;M;2;graduacao;casado;"$80K - $120K";blue;5;2;2;22120.5;3981.61;65
+33;M;2;doutorado;casado;"$80K - $120K";blue;3;3;3;1438.33;2730.75;48
+60;F;0;"ensino medio";solteiro;na;blue;3;2;2;4546.1;1361.12;34
+65;M;1;"ensino medio";casado;"menos que $40K";blue;3;1;2;1759.11;821.3;18
+57;M;1;mestrado;casado;"$80K - $120K";blue;3;3;3;4829.9;938.83;21
+59;F;0;na;casado;"menos que $40K";blue;5;2;3;7692.7;1861.32;42
+45;F;5;mestrado;casado;"menos que $40K";blue;4;2;3;2156.16;1345.67;28
+62;M;1;"sem educacao formal";casado;"$60K - $80K";blue;6;3;3;9521.09;2444.31;63
+51;M;2;graduacao;solteiro;"$120K +";blue;6;2;3;26714.3;1686.91;50
+57;M;2;mestrado;casado;"$80K - $120K";blue;6;3;2;2092.35;1468.14;30
+38;F;3;"ensino medio";casado;na;blue;4;1;2;11594.5;2320.54;51
+32;F;0;mestrado;casado;"menos que $40K";blue;6;0;1;2834.54;1598.37;39
+43;F;4;mestrado;casado;"menos que $40K";blue;4;2;3;4724.84;1232.75;31
+51;F;0;na;divorciado;"menos que $40K";blue;6;3;4;3049.95;4027.98;76
+50;M;2;na;divorciado;"$80K - $120K";blue;4;1;3;20614.3;1922.13;48
+64;F;0;"sem educacao formal";casado;na;blue;6;2;1;3250.92;1355.42;36
+53;F;1;doutorado;casado;"menos que $40K";blue;3;2;1;3128.06;2361.67;42
+42;M;2;"sem educacao formal";solteiro;"$60K - $80K";blue;2;3;2;6414.81;708.53;14
+53;M;3;mestrado;solteiro;"$80K - $120K";blue;6;0;3;2506.36;1687.4;62
+52;F;4;"ensino medio";solteiro;na;blue;6;3;2;7469.69;1212.16;33
+60;F;2;"ensino medio";casado;"menos que $40K";blue;4;2;3;3460.61;1752.94;34
+30;M;1;mestrado;casado;"$80K - $120K";blue;5;2;3;9959.79;1560.46;39
+43;F;3;"sem educacao formal";casado;"menos que $40K";blue;4;2;1;4175.19;1520.58;36
+60;M;1;"sem educacao formal";casado;"$60K - $80K";blue;3;3;1;10264.1;1685.63;45
+46;M;2;"ensino medio";solteiro;"$40K - $60K";blue;4;3;3;4129.73;1678.66;40
+65;F;2;"ensino medio";casado;"$40K - $60K";blue;6;2;2;2658.53;1627;26
+44;F;2;graduacao;solteiro;"$40K - $60K";blue;4;3;2;4589.75;1637.1;61
+56;F;2;graduacao;casado;"menos que $40K";blue;6;2;1;2781.68;1707.34;42
+45;F;4;"ensino medio";casado;na;blue;4;2;3;24880.7;1208.66;25
+37;M;3;mestrado;na;"$40K - $60K";blue;6;2;1;8504.03;1881.96;51
+48;M;2;"ensino medio";casado;"$80K - $120K";blue;5;3;1;8091.55;1360.42;28
+37;F;4;graduacao;casado;"$40K - $60K";blue;4;3;4;3417.74;1641.08;32
+39;M;1;"sem educacao formal";solteiro;"$60K - $80K";blue;4;3;3;9204.3;1820.62;58
+41;M;2;mestrado;casado;"$120K +";blue;5;3;2;14302.4;1505.02;35
+55;F;2;"ensino medio";casado;"menos que $40K";blue;5;0;2;3187.89;1627.21;38
+34;M;1;mestrado;casado;"$80K - $120K";blue;5;2;3;6313.83;1703.62;34
+52;M;2;na;solteiro;"$80K - $120K";blue;6;3;1;15905;1433.95;33
+54;F;0;doutorado;solteiro;"menos que $40K";silver;6;3;2;11696.2;2445.51;60
+40;M;3;doutorado;casado;"$80K - $120K";blue;5;2;3;20371.8;1665.91;45
+52;M;0;"ensino medio";casado;"$120K +";silver;3;1;3;34516;1489.99;38
+45;M;3;mestrado;solteiro;"$60K - $80K";blue;3;3;1;7552.92;1393.1;32
+61;M;0;doutorado;casado;"$40K - $60K";blue;5;2;1;5561.22;1820.36;42
+57;F;2;"ensino medio";casado;"menos que $40K";blue;6;2;3;1441.23;2742.89;58
+51;M;2;na;na;"$120K +";blue;6;2;2;19715.4;1979.06;40
+60;M;1;na;solteiro;"menos que $40K";blue;5;2;3;2486.9;1378.64;27
+48;F;2;graduacao;casado;"menos que $40K";blue;5;3;1;4570.01;1520.89;34
+34;M;0;"ensino medio";casado;"$40K - $60K";blue;3;2;3;3870.37;1588.53;36
+49;M;4;"ensino medio";casado;"$60K - $80K";blue;6;2;3;12938.6;1282.69;32
+53;M;3;"ensino medio";casado;"$120K +";blue;3;3;1;21178.7;1872.73;59
+34;M;2;"sem educacao formal";solteiro;"$80K - $120K";blue;3;0;2;12182.3;2295.89;63
+54;M;2;mestrado;casado;"$60K - $80K";blue;6;0;2;3583.04;1065.33;28
+40;M;3;mestrado;solteiro;"$120K +";blue;4;3;2;17018.7;1550.5;47
+49;F;5;graduacao;solteiro;na;blue;6;2;3;16032;1527.81;57
+41;F;4;"ensino medio";solteiro;"menos que $40K";blue;6;3;2;4203.33;1489.35;43
+46;M;3;mestrado;divorciado;"menos que $40K";blue;5;3;1;4213.92;1264.19;30
+46;M;4;mestrado;casado;"$60K - $80K";blue;6;2;2;21548.2;1582.77;38
+30;M;0;mestrado;na;"$60K - $80K";blue;3;3;5;18513.3;1567.61;33
+59;M;1;doutorado;casado;"$40K - $60K";blue;4;2;2;2483.88;1704.69;35
+50;M;0;doutorado;solteiro;"$80K - $120K";blue;5;2;2;3460.01;1546.08;35
+49;M;2;na;na;"$60K - $80K";blue;5;2;3;6511.35;1478.31;38
+45;M;5;"ensino medio";na;"$60K - $80K";blue;3;1;3;1438.72;2132.35;31
+53;F;1;"ensino medio";solteiro;"menos que $40K";blue;3;2;2;2615.89;1419.79;38
+42;F;1;doutorado;casado;"$40K - $60K";blue;4;2;3;2985.41;1065.61;27
+46;M;5;"ensino medio";casado;"$40K - $60K";silver;5;3;1;18797.7;1364.11;40
+33;M;1;mestrado;casado;"$60K - $80K";blue;3;3;1;2859.85;2247.96;36
+46;F;2;mestrado;casado;"menos que $40K";blue;4;0;3;2888.61;1111.69;26
+61;M;0;"ensino medio";casado;"$60K - $80K";blue;4;3;3;9172.06;1836.23;42
+42;M;5;"sem educacao formal";casado;"$40K - $60K";blue;5;2;3;14281;1164.76;35
+47;F;4;mestrado;solteiro;"menos que $40K";blue;3;3;2;7353.89;2005.44;54
+47;F;2;mestrado;solteiro;"menos que $40K";blue;6;2;2;5145.02;1588.68;35
+53;F;4;mestrado;casado;"$40K - $60K";blue;3;3;2;4753.75;2242.83;49
+46;F;3;mestrado;solteiro;"menos que $40K";blue;3;3;3;2171.16;1415.72;45
+26;M;0;graduacao;divorciado;"menos que $40K";blue;5;3;2;4150.86;2483.72;74
+45;M;3;mestrado;casado;"$60K - $80K";blue;6;3;3;9106.01;1239.33;33
+36;M;2;"ensino medio";divorciado;"$40K - $60K";blue;3;2;3;2686.28;2057.77;53
+42;M;3;"ensino medio";na;"$60K - $80K";blue;5;2;1;10239.6;1228.67;26
+52;M;1;mestrado;casado;"$80K - $120K";blue;4;2;3;34516.7;1629.92;32
+37;M;3;mestrado;casado;"$120K +";blue;3;0;3;15017.2;2076.31;58
+53;M;1;"sem educacao formal";casado;"$40K - $60K";blue;3;2;1;4426.97;1231.44;34
+65;F;1;doutorado;casado;"$40K - $60K";blue;5;3;3;2155.02;1655.51;27
+47;M;1;"sem educacao formal";na;"$80K - $120K";blue;4;3;1;20620.2;1477.08;23
+38;M;0;"sem educacao formal";casado;"$60K - $80K";blue;3;3;1;3238.92;1501.52;45
